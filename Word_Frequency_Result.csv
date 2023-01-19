@@ -1,0 +1,2670 @@
+Name,Word,Frequency,Word_Compound_Score,Word_Sentiment_Result
+University of Malaya Medical Centre,patient,31,0.0,Neutral
+University of Malaya Medical Centre,doctor,30,0.0,Neutral
+University of Malaya Medical Centre,wa,26,0.0,Neutral
+University of Malaya Medical Centre,hospital,18,0.0,Neutral
+University of Malaya Medical Centre,time,15,0.0,Neutral
+University of Malaya Medical Centre,emergency,14,-0.3818,Negative
+University of Malaya Medical Centre,like,13,0.3612,Positive
+University of Malaya Medical Centre,nurse,13,0.0,Neutral
+University of Malaya Medical Centre,ppum,13,0.0,Neutral
+University of Malaya Medical Centre,staff,12,0.0,Neutral
+University of Malaya Medical Centre,u,12,0.0,Neutral
+University of Malaya Medical Centre,hour,11,0.0,Neutral
+University of Malaya Medical Centre,service,11,0.0,Neutral
+University of Malaya Medical Centre,come,10,0.0,Neutral
+University of Malaya Medical Centre,one,10,0.0,Neutral
+University of Malaya Medical Centre,ask,9,0.0,Neutral
+University of Malaya Medical Centre,ward,9,0.0,Neutral
+University of Malaya Medical Centre,also,8,0.0,Neutral
+University of Malaya Medical Centre,care,8,0.4939,Positive
+University of Malaya Medical Centre,father,8,0.0,Neutral
+University of Malaya Medical Centre,go,8,0.0,Neutral
+University of Malaya Medical Centre,need,8,0.0,Neutral
+University of Malaya Medical Centre,take,8,0.0,Neutral
+University of Malaya Medical Centre,asked,7,0.0,Neutral
+University of Malaya Medical Centre,ha,7,0.34,Positive
+University of Malaya Medical Centre,know,7,0.0,Neutral
+University of Malaya Medical Centre,room,7,0.0,Neutral
+University of Malaya Medical Centre,around,6,0.0,Neutral
+University of Malaya Medical Centre,bad,6,-0.5423,Negative
+University of Malaya Medical Centre,life,6,0.0,Neutral
+University of Malaya Medical Centre,medical,6,0.0,Neutral
+University of Malaya Medical Centre,please,6,0.3182,Positive
+University of Malaya Medical Centre,rude,6,-0.4588,Negative
+University of Malaya Medical Centre,wait,6,0.0,Neutral
+University of Malaya Medical Centre,1,5,0.0,Neutral
+University of Malaya Medical Centre,2,5,0.0,Neutral
+University of Malaya Medical Centre,better,5,0.4404,Positive
+University of Malaya Medical Centre,came,5,0.0,Neutral
+University of Malaya Medical Centre,counter,5,0.0,Neutral
+University of Malaya Medical Centre,experience,5,0.0,Neutral
+University of Malaya Medical Centre,get,5,0.0,Neutral
+University of Malaya Medical Centre,given,5,0.0,Neutral
+University of Malaya Medical Centre,late,5,0.0,Neutral
+University of Malaya Medical Centre,see,5,0.0,Neutral
+University of Malaya Medical Centre,status,5,0.0,Neutral
+University of Malaya Medical Centre,still,5,0.0,Neutral
+University of Malaya Medical Centre,talk,5,0.0,Neutral
+University of Malaya Medical Centre,ur,5,0.0,Neutral
+University of Malaya Medical Centre,&,4,0.0,Neutral
+University of Malaya Medical Centre,appointment,4,0.0,Neutral
+University of Malaya Medical Centre,baby,4,0.0,Neutral
+University of Malaya Medical Centre,best,4,0.6369,Positive
+University of Malaya Medical Centre,bp,4,0.0,Neutral
+University of Malaya Medical Centre,could,4,0.0,Neutral
+University of Malaya Medical Centre,day,4,0.0,Neutral
+University of Malaya Medical Centre,department,4,0.0,Neutral
+University of Malaya Medical Centre,doc,4,0.0,Neutral
+University of Malaya Medical Centre,due,4,0.0,Neutral
+University of Malaya Medical Centre,even,4,0.0,Neutral
+University of Malaya Medical Centre,food,4,0.0,Neutral
+University of Malaya Medical Centre,friendly,4,0.4939,Positive
+University of Malaya Medical Centre,going,4,0.0,Neutral
+University of Malaya Medical Centre,good,4,0.4404,Positive
+University of Malaya Medical Centre,i'm,4,0.0,Neutral
+University of Malaya Medical Centre,make,4,0.0,Neutral
+University of Malaya Medical Centre,many,4,0.0,Neutral
+University of Malaya Medical Centre,n,4,0.0,Neutral
+University of Malaya Medical Centre,problem,4,-0.4019,Negative
+University of Malaya Medical Centre,really,4,0.0,Neutral
+University of Malaya Medical Centre,response,4,0.0,Neutral
+University of Malaya Medical Centre,shame,4,-0.4767,Negative
+University of Malaya Medical Centre,simple,4,0.0,Neutral
+University of Malaya Medical Centre,test,4,0.0,Neutral
+University of Malaya Medical Centre,think,4,0.0,Neutral
+University of Malaya Medical Centre,waiting,4,0.0,Neutral
+University of Malaya Medical Centre,want,4,0.0772,Neutral
+University of Malaya Medical Centre,went,4,0.0,Neutral
+University of Malaya Medical Centre,would,4,0.0,Neutral
+University of Malaya Medical Centre,11,3,0.0,Neutral
+University of Malaya Medical Centre,4,3,0.0,Neutral
+University of Malaya Medical Centre,7:30am,3,0.0,Neutral
+University of Malaya Medical Centre,admit,3,0.2023,Neutral
+University of Malaya Medical Centre,answered,3,0.0,Neutral
+University of Malaya Medical Centre,asking,3,0.0,Neutral
+University of Malaya Medical Centre,avoid,3,-0.296,Neutral
+University of Malaya Medical Centre,back,3,0.0,Neutral
+University of Malaya Medical Centre,bed,3,0.0,Neutral
+University of Malaya Medical Centre,call,3,0.0,Neutral
+University of Malaya Medical Centre,called,3,0.0,Neutral
+University of Malaya Medical Centre,can't,3,0.0,Neutral
+University of Malaya Medical Centre,centre,3,0.0,Neutral
+University of Malaya Medical Centre,change,3,0.0,Neutral
+University of Malaya Medical Centre,children,3,0.0,Neutral
+University of Malaya Medical Centre,clinic,3,0.0,Neutral
+University of Malaya Medical Centre,concern,3,0.0,Neutral
+University of Malaya Medical Centre,covid,3,0.0,Neutral
+University of Malaya Medical Centre,cramp,3,-0.2023,Neutral
+University of Malaya Medical Centre,delivery,3,0.0,Neutral
+University of Malaya Medical Centre,every,3,0.0,Neutral
+University of Malaya Medical Centre,facility,3,0.0,Neutral
+University of Malaya Medical Centre,feel,3,0.0,Neutral
+University of Malaya Medical Centre,first,3,0.0,Neutral
+University of Malaya Medical Centre,forget,3,-0.2263,Neutral
+University of Malaya Medical Centre,government,3,0.0,Neutral
+University of Malaya Medical Centre,gynocologist,3,0.0,Neutral
+University of Malaya Medical Centre,health,3,0.0,Neutral
+University of Malaya Medical Centre,instead,3,0.0,Neutral
+University of Malaya Medical Centre,long,3,0.0,Neutral
+University of Malaya Medical Centre,love,3,0.6369,Positive
+University of Malaya Medical Centre,malaysia,3,0.0,Neutral
+University of Malaya Medical Centre,money,3,0.0,Neutral
+University of Malaya Medical Centre,mother,3,0.0,Neutral
+University of Malaya Medical Centre,never,3,0.0,Neutral
+University of Malaya Medical Centre,nothing,3,0.0,Neutral
+University of Malaya Medical Centre,open,3,0.0,Neutral
+University of Malaya Medical Centre,pain,3,-0.5106,Negative
+University of Malaya Medical Centre,parent,3,0.0,Neutral
+University of Malaya Medical Centre,people,3,0.0,Neutral
+University of Malaya Medical Centre,price,3,0.0,Neutral
+University of Malaya Medical Centre,private,3,0.0,Neutral
+University of Malaya Medical Centre,proper,3,0.0,Neutral
+University of Malaya Medical Centre,reason,3,0.0,Neutral
+University of Malaya Medical Centre,refund,3,0.0,Neutral
+University of Malaya Medical Centre,star,3,0.0,Neutral
+University of Malaya Medical Centre,system,3,0.0,Neutral
+University of Malaya Medical Centre,talking,3,0.0,Neutral
+University of Malaya Medical Centre,thank,3,0.3612,Positive
+University of Malaya Medical Centre,thinking,3,0.0,Neutral
+University of Malaya Medical Centre,tht,3,0.0,Neutral
+University of Malaya Medical Centre,treated,3,0.0,Neutral
+University of Malaya Medical Centre,understand,3,0.0,Neutral
+University of Malaya Medical Centre,vagainal,3,0.0,Neutral
+University of Malaya Medical Centre,walk,3,0.0,Neutral
+University of Malaya Medical Centre,wife,3,0.0,Neutral
+University of Malaya Medical Centre,willing,3,0.0,Neutral
+University of Malaya Medical Centre,without,3,0.0,Neutral
+University of Malaya Medical Centre,year,3,0.0,Neutral
+University of Malaya Medical Centre,you,3,0.0,Neutral
+University of Malaya Medical Centre,young,3,0.0,Neutral
+University of Malaya Medical Centre,10,2,0.0,Neutral
+University of Malaya Medical Centre,194/94,2,0.0,Neutral
+University of Malaya Medical Centre,3,2,0.0,Neutral
+University of Malaya Medical Centre,30,2,0.0,Neutral
+University of Malaya Medical Centre,7,2,0.0,Neutral
+University of Malaya Medical Centre,8am,2,0.0,Neutral
+University of Malaya Medical Centre,actual,2,0.0,Neutral
+University of Malaya Medical Centre,aku,2,0.0,Neutral
+University of Malaya Medical Centre,allow,2,0.2263,Neutral
+University of Malaya Medical Centre,almost,2,0.0,Neutral
+University of Malaya Medical Centre,am,2,0.0,Neutral
+University of Malaya Medical Centre,another,2,0.0,Neutral
+University of Malaya Medical Centre,answer,2,0.0,Neutral
+University of Malaya Medical Centre,anymore,2,0.0,Neutral
+University of Malaya Medical Centre,anything,2,0.0,Neutral
+University of Malaya Medical Centre,attention,2,0.0,Neutral
+University of Malaya Medical Centre,bout,2,0.0,Neutral
+University of Malaya Medical Centre,case,2,0.0,Neutral
+University of Malaya Medical Centre,center,2,0.0,Neutral
+University of Malaya Medical Centre,check,2,0.0,Neutral
+University of Malaya Medical Centre,clean,2,0.4019,Positive
+University of Malaya Medical Centre,clear,2,0.3818,Positive
+University of Malaya Medical Centre,condition,2,0.0,Neutral
+University of Malaya Medical Centre,cost,2,0.0,Neutral
+University of Malaya Medical Centre,crazy,2,-0.34,Negative
+University of Malaya Medical Centre,dad,2,0.0,Neutral
+University of Malaya Medical Centre,dan,2,0.0,Neutral
+University of Malaya Medical Centre,different,2,0.0,Neutral
+University of Malaya Medical Centre,doctors,2,0.0,Neutral
+University of Malaya Medical Centre,dr,2,0.0,Neutral
+University of Malaya Medical Centre,else,2,0.0,Neutral
+University of Malaya Medical Centre,emergncy,2,0.0,Neutral
+University of Malaya Medical Centre,exceptional,2,0.0,Neutral
+University of Malaya Medical Centre,explain,2,0.0,Neutral
+University of Malaya Medical Centre,floor,2,0.0,Neutral
+University of Malaya Medical Centre,flow,2,0.0,Neutral
+University of Malaya Medical Centre,found,2,0.0,Neutral
+University of Malaya Medical Centre,frontdesk,2,0.0,Neutral
+University of Malaya Medical Centre,gave,2,0.0,Neutral
+University of Malaya Medical Centre,giving,2,0.34,Positive
+University of Malaya Medical Centre,granny,2,0.0,Neutral
+University of Malaya Medical Centre,handling,2,0.0,Neutral
+University of Malaya Medical Centre,help,2,0.4019,Positive
+University of Malaya Medical Centre,helpful,2,0.4215,Positive
+University of Malaya Medical Centre,however,2,0.0,Neutral
+University of Malaya Medical Centre,hypertension,2,0.0,Neutral
+University of Malaya Medical Centre,impatient,2,-0.296,Neutral
+University of Malaya Medical Centre,issue,2,0.0,Neutral
+University of Malaya Medical Centre,job,2,0.0,Neutral
+University of Malaya Medical Centre,keep,2,0.0,Neutral
+University of Malaya Medical Centre,kid,2,0.0,Neutral
+University of Malaya Medical Centre,lady,2,0.0,Neutral
+University of Malaya Medical Centre,lagi,2,0.0,Neutral
+University of Malaya Medical Centre,learn,2,0.0,Neutral
+University of Malaya Medical Centre,least,2,0.0,Neutral
+University of Malaya Medical Centre,leave,2,-0.0516,Neutral
+University of Malaya Medical Centre,listen,2,0.0,Neutral
+University of Malaya Medical Centre,looked,2,0.0,Neutral
+University of Malaya Medical Centre,lot,2,0.0,Neutral
+University of Malaya Medical Centre,morning,2,0.0,Neutral
+University of Malaya Medical Centre,name,2,0.0,Neutral
+University of Malaya Medical Centre,normal,2,0.0,Neutral
+University of Malaya Medical Centre,nurses,2,0.0,Neutral
+University of Malaya Medical Centre,observation,2,0.0,Neutral
+University of Malaya Medical Centre,orange,2,0.0,Neutral
+University of Malaya Medical Centre,pandemic,2,0.0,Neutral
+University of Malaya Medical Centre,pay,2,-0.1027,Neutral
+University of Malaya Medical Centre,per,2,0.0,Neutral
+University of Malaya Medical Centre,place,2,0.0,Neutral
+University of Malaya Medical Centre,politely,2,0.0,Neutral
+University of Malaya Medical Centre,pray,2,0.3182,Positive
+University of Malaya Medical Centre,procedure,2,0.0,Neutral
+University of Malaya Medical Centre,professional,2,0.0,Neutral
+University of Malaya Medical Centre,progress,2,0.4215,Positive
+University of Malaya Medical Centre,provided,2,0.0,Neutral
+University of Malaya Medical Centre,public,2,0.0,Neutral
+University of Malaya Medical Centre,put,2,0.0,Neutral
+University of Malaya Medical Centre,question,2,0.0,Neutral
+University of Malaya Medical Centre,reasonable,2,0.0,Neutral
+University of Malaya Medical Centre,respect,2,0.4767,Positive
+University of Malaya Medical Centre,review,2,0.0,Neutral
+University of Malaya Medical Centre,said,2,0.0,Neutral
+University of Malaya Medical Centre,sakit,2,0.0,Neutral
+University of Malaya Medical Centre,say,2,0.0,Neutral
+University of Malaya Medical Centre,seriously,2,-0.1779,Neutral
+University of Malaya Medical Centre,signage,2,0.0,Neutral
+University of Malaya Medical Centre,since,2,0.0,Neutral
+University of Malaya Medical Centre,slave,2,0.0,Neutral
+University of Malaya Medical Centre,solution,2,0.3182,Positive
+University of Malaya Medical Centre,son,2,0.0,Neutral
+University of Malaya Medical Centre,stage,2,0.0,Neutral
+University of Malaya Medical Centre,stay,2,0.0,Neutral
+University of Malaya Medical Centre,stop,2,-0.296,Neutral
+University of Malaya Medical Centre,sure,2,0.3182,Positive
+University of Malaya Medical Centre,suruh,2,0.0,Neutral
+University of Malaya Medical Centre,swab,2,0.0,Neutral
+University of Malaya Medical Centre,tahan,2,0.0,Neutral
+University of Malaya Medical Centre,taking,2,0.0,Neutral
+University of Malaya Medical Centre,tax,2,0.0,Neutral
+University of Malaya Medical Centre,thanks,2,0.4404,Positive
+University of Malaya Medical Centre,that's,2,0.0,Neutral
+University of Malaya Medical Centre,thing,2,0.0,Neutral
+University of Malaya Medical Centre,today,2,0.0,Neutral
+University of Malaya Medical Centre,told,2,0.0,Neutral
+University of Malaya Medical Centre,tp,2,0.0,Neutral
+University of Malaya Medical Centre,treatment,2,0.0,Neutral
+University of Malaya Medical Centre,uncaring,2,0.0,Neutral
+University of Malaya Medical Centre,updte,2,0.0,Neutral
+University of Malaya Medical Centre,urine,2,0.0,Neutral
+University of Malaya Medical Centre,vagaina,2,0.0,Neutral
+University of Malaya Medical Centre,value,2,0.34,Positive
+University of Malaya Medical Centre,waited,2,0.0,Neutral
+University of Malaya Medical Centre,walkin,2,0.0,Neutral
+University of Malaya Medical Centre,warded,2,0.0,Neutral
+University of Malaya Medical Centre,worse,2,-0.4767,Negative
+University of Malaya Medical Centre,x,2,0.0,Neutral
+University of Malaya Medical Centre,zero,2,0.0,Neutral
+University of Malaya Medical Centre,'all,1,0.0,Neutral
+University of Malaya Medical Centre,'government,1,0.0,Neutral
+University of Malaya Medical Centre,07,1,0.0,Neutral
+University of Malaya Medical Centre,0726hrs,1,0.0,Neutral
+University of Malaya Medical Centre,1000%,1,0.0,Neutral
+University of Malaya Medical Centre,11am-4pm,1,0.0,Neutral
+University of Malaya Medical Centre,13,1,0.0,Neutral
+University of Malaya Medical Centre,14,1,0.0,Neutral
+University of Malaya Medical Centre,1am,1,0.0,Neutral
+University of Malaya Medical Centre,1pm-2pm,1,0.0,Neutral
+University of Malaya Medical Centre,1star,1,0.0,Neutral
+University of Malaya Medical Centre,2008,1,0.0,Neutral
+University of Malaya Medical Centre,2021,1,0.0,Neutral
+University of Malaya Medical Centre,21,1,0.0,Neutral
+University of Malaya Medical Centre,25k,1,0.0,Neutral
+University of Malaya Medical Centre,2pm,1,0.0,Neutral
+University of Malaya Medical Centre,3rd,1,0.0,Neutral
+University of Malaya Medical Centre,4-5,1,0.0,Neutral
+University of Malaya Medical Centre,40min,1,0.0,Neutral
+University of Malaya Medical Centre,4pm,1,0.0,Neutral
+University of Malaya Medical Centre,5,1,0.0,Neutral
+University of Malaya Medical Centre,50pm,1,0.0,Neutral
+University of Malaya Medical Centre,6pm,1,0.0,Neutral
+University of Malaya Medical Centre,6u,1,0.0,Neutral
+University of Malaya Medical Centre,70+,1,0.0,Neutral
+University of Malaya Medical Centre,9,1,0.0,Neutral
+University of Malaya Medical Centre,@,1,0.0,Neutral
+University of Malaya Medical Centre,abdomen,1,0.0,Neutral
+University of Malaya Medical Centre,accept,1,0.3818,Positive
+University of Malaya Medical Centre,accompanying,1,0.0,Neutral
+University of Malaya Medical Centre,action,1,0.0,Neutral
+University of Malaya Medical Centre,actually,1,0.0,Neutral
+University of Malaya Medical Centre,adhere,1,0.0,Neutral
+University of Malaya Medical Centre,admitted,1,0.1027,Neutral
+University of Malaya Medical Centre,adult,1,0.0,Neutral
+University of Malaya Medical Centre,advanced,1,0.25,Neutral
+University of Malaya Medical Centre,advise,1,0.0,Neutral
+University of Malaya Medical Centre,afford,1,0.0,Neutral
+University of Malaya Medical Centre,affordable,1,0.0,Neutral
+University of Malaya Medical Centre,afraid,1,0.0,Neutral
+University of Malaya Medical Centre,after,1,0.0,Neutral
+University of Malaya Medical Centre,afternoon,1,0.0,Neutral
+University of Malaya Medical Centre,again,1,0.0,Neutral
+University of Malaya Medical Centre,age,1,0.0,Neutral
+University of Malaya Medical Centre,aged,1,0.0,Neutral
+University of Malaya Medical Centre,ago,1,0.0,Neutral
+University of Malaya Medical Centre,aisle,1,0.0,Neutral
+University of Malaya Medical Centre,alrdy,1,0.0,Neutral
+University of Malaya Medical Centre,already,1,0.0,Neutral
+University of Malaya Medical Centre,am-9pm,1,0.0,Neutral
+University of Malaya Medical Centre,amazing,1,0.5859,Positive
+University of Malaya Medical Centre,ambience,1,0.0,Neutral
+University of Malaya Medical Centre,amen,1,0.0,Neutral
+University of Malaya Medical Centre,ample,1,0.0,Neutral
+University of Malaya Medical Centre,amputee,1,0.0,Neutral
+University of Malaya Medical Centre,anak,1,0.0,Neutral
+University of Malaya Medical Centre,angiogram,1,0.0,Neutral
+University of Malaya Medical Centre,ank,1,0.0,Neutral
+University of Malaya Medical Centre,ankle,1,0.0,Neutral
+University of Malaya Medical Centre,"answer""we",1,0.0,Neutral
+University of Malaya Medical Centre,apa,1,0.0,Neutral
+University of Malaya Medical Centre,ape,1,0.0,Neutral
+University of Malaya Medical Centre,appalled,1,-0.4588,Negative
+University of Malaya Medical Centre,apparently,1,0.0,Neutral
+University of Malaya Medical Centre,appreciation,1,0.5106,Positive
+University of Malaya Medical Centre,area,1,0.0,Neutral
+University of Malaya Medical Centre,aside,1,0.0,Neutral
+University of Malaya Medical Centre,assistance,1,0.0,Neutral
+University of Malaya Medical Centre,ate,1,0.0,Neutral
+University of Malaya Medical Centre,atleast,1,0.0,Neutral
+University of Malaya Medical Centre,aunt,1,0.0,Neutral
+University of Malaya Medical Centre,available,1,0.0,Neutral
+University of Malaya Medical Centre,awaiting,1,0.0,Neutral
+University of Malaya Medical Centre,awesome,1,0.6249,Positive
+University of Malaya Medical Centre,bagai,1,0.0,Neutral
+University of Malaya Medical Centre,bagi,1,0.0,Neutral
+University of Malaya Medical Centre,baik,1,0.0,Neutral
+University of Malaya Medical Centre,ball,1,0.0,Neutral
+University of Malaya Medical Centre,bank,1,0.0,Neutral
+University of Malaya Medical Centre,bape,1,0.0,Neutral
+University of Malaya Medical Centre,barriar,1,0.0,Neutral
+University of Malaya Medical Centre,bayar,1,0.0,Neutral
+University of Malaya Medical Centre,bcos,1,0.0,Neutral
+University of Malaya Medical Centre,beat,1,0.0,Neutral
+University of Malaya Medical Centre,behind,1,0.0,Neutral
+University of Malaya Medical Centre,beratur,1,0.0,Neutral
+University of Malaya Medical Centre,bergosip,1,0.0,Neutral
+University of Malaya Medical Centre,beyond,1,0.0,Neutral
+University of Malaya Medical Centre,bg,1,0.0,Neutral
+University of Malaya Medical Centre,bgtau,1,0.0,Neutral
+University of Malaya Medical Centre,bill,1,0.0,Neutral
+University of Malaya Medical Centre,blaming,1,-0.4939,Negative
+University of Malaya Medical Centre,bleeding,1,0.0,Neutral
+University of Malaya Medical Centre,bless,1,0.4215,Positive
+University of Malaya Medical Centre,blessed,1,0.5994,Positive
+University of Malaya Medical Centre,blind,1,-0.4019,Negative
+University of Malaya Medical Centre,blood,1,0.0,Neutral
+University of Malaya Medical Centre,boleh,1,0.0,Neutral
+University of Malaya Medical Centre,bounced,1,0.0,Neutral
+University of Malaya Medical Centre,bring,1,0.0,Neutral
+University of Malaya Medical Centre,brought,1,0.0,Neutral
+University of Malaya Medical Centre,buat,1,0.0,Neutral
+University of Malaya Medical Centre,bulan,1,0.0,Neutral
+University of Malaya Medical Centre,busy,1,0.0,Neutral
+University of Malaya Medical Centre,byk,1,0.0,Neutral
+University of Malaya Medical Centre,cafe,1,0.0,Neutral
+University of Malaya Medical Centre,calm,1,0.3182,Positive
+University of Malaya Medical Centre,cancelled,1,-0.25,Neutral
+University of Malaya Medical Centre,cancer,1,-0.6597,Negative
+University of Malaya Medical Centre,candidly,1,0.0,Neutral
+University of Malaya Medical Centre,cant,1,0.0,Neutral
+University of Malaya Medical Centre,canteen,1,0.0,Neutral
+University of Malaya Medical Centre,can’t,1,0.0,Neutral
+University of Malaya Medical Centre,careline,1,0.0,Neutral
+University of Malaya Medical Centre,certain,1,0.2732,Neutral
+University of Malaya Medical Centre,charge,1,0.0,Neutral
+University of Malaya Medical Centre,checking,1,0.0,Neutral
+University of Malaya Medical Centre,child,1,0.0,Neutral
+University of Malaya Medical Centre,children's,1,0.0,Neutral
+University of Malaya Medical Centre,closed=,1,0.0,Neutral
+University of Malaya Medical Centre,colon,1,0.0,Neutral
+University of Malaya Medical Centre,comfortable,1,0.5106,Positive
+University of Malaya Medical Centre,coming,1,0.0,Neutral
+University of Malaya Medical Centre,comment,1,0.0,Neutral
+University of Malaya Medical Centre,comparatively,1,0.0,Neutral
+University of Malaya Medical Centre,complaint,1,-0.296,Neutral
+University of Malaya Medical Centre,completed,1,0.0,Neutral
+University of Malaya Medical Centre,complex,1,0.0,Neutral
+University of Malaya Medical Centre,confirm,1,0.0,Neutral
+University of Malaya Medical Centre,congregated,1,0.0,Neutral
+University of Malaya Medical Centre,consent,1,0.2263,Neutral
+University of Malaya Medical Centre,constant,1,0.0,Neutral
+University of Malaya Medical Centre,continue,1,0.0,Neutral
+University of Malaya Medical Centre,convenient,1,0.0,Neutral
+University of Malaya Medical Centre,counselling,1,0.0,Neutral
+University of Malaya Medical Centre,covid-19,1,0.0,Neutral
+University of Malaya Medical Centre,coz,1,0.0,Neutral
+University of Malaya Medical Centre,cukai,1,0.0,Neutral
+University of Malaya Medical Centre,cunning,1,0.0,Neutral
+University of Malaya Medical Centre,cup,1,0.0,Neutral
+University of Malaya Medical Centre,cursing,1,0.0,Neutral
+University of Malaya Medical Centre,cust,1,0.0,Neutral
+University of Malaya Medical Centre,customer,1,0.0,Neutral
+University of Malaya Medical Centre,dah,1,0.0,Neutral
+University of Malaya Medical Centre,dangerous,1,-0.4767,Negative
+University of Malaya Medical Centre,date,1,0.0,Neutral
+University of Malaya Medical Centre,days,1,0.0,Neutral
+University of Malaya Medical Centre,dealing,1,0.0,Neutral
+University of Malaya Medical Centre,death,1,-0.5994,Negative
+University of Malaya Medical Centre,decide,1,0.0,Neutral
+University of Malaya Medical Centre,decided,1,0.0,Neutral
+University of Malaya Medical Centre,dedication,1,0.0,Neutral
+University of Malaya Medical Centre,deliver,1,0.0,Neutral
+University of Malaya Medical Centre,dengan,1,0.0,Neutral
+University of Malaya Medical Centre,detail,1,0.0,Neutral
+University of Malaya Medical Centre,dh,1,0.0,Neutral
+University of Malaya Medical Centre,di,1,0.0,Neutral
+University of Malaya Medical Centre,diabetic,1,0.0,Neutral
+University of Malaya Medical Centre,diagnosed,1,0.0,Neutral
+University of Malaya Medical Centre,die,1,-0.5994,Negative
+University of Malaya Medical Centre,dirty,1,-0.4404,Negative
+University of Malaya Medical Centre,disappointed,1,-0.4767,Negative
+University of Malaya Medical Centre,disaster,1,-0.6249,Negative
+University of Malaya Medical Centre,discharge,1,0.0,Neutral
+University of Malaya Medical Centre,disgusted,1,-0.5267,Negative
+University of Malaya Medical Centre,disgusting,1,-0.5267,Negative
+University of Malaya Medical Centre,doe,1,0.0,Neutral
+University of Malaya Medical Centre,done,1,0.0,Neutral
+University of Malaya Medical Centre,dont,1,0.0,Neutral
+University of Malaya Medical Centre,dorang,1,0.0,Neutral
+University of Malaya Medical Centre,drg,1,0.0,Neutral
+University of Malaya Medical Centre,dunno,1,0.0,Neutral
+University of Malaya Medical Centre,earth,1,0.0,Neutral
+University of Malaya Medical Centre,easily,1,0.34,Positive
+University of Malaya Medical Centre,eat,1,0.0,Neutral
+University of Malaya Medical Centre,eating,1,0.0,Neutral
+University of Malaya Medical Centre,effectively,1,0.4404,Positive
+University of Malaya Medical Centre,efficiently,1,0.4019,Positive
+University of Malaya Medical Centre,effort,1,0.0,Neutral
+University of Malaya Medical Centre,emotional,1,0.1531,Neutral
+University of Malaya Medical Centre,end,1,0.0,Neutral
+University of Malaya Medical Centre,ended,1,0.0,Neutral
+University of Malaya Medical Centre,energy,1,0.2732,Neutral
+University of Malaya Medical Centre,enjoy,1,0.4939,Positive
+University of Malaya Medical Centre,environment,1,0.0,Neutral
+University of Malaya Medical Centre,equipment,1,0.0,Neutral
+University of Malaya Medical Centre,especially,1,0.0,Neutral
+University of Malaya Medical Centre,eventhough,1,0.0,Neutral
+University of Malaya Medical Centre,ever,1,0.0,Neutral
+University of Malaya Medical Centre,everybody,1,0.0,Neutral
+University of Malaya Medical Centre,everyone,1,0.0,Neutral
+University of Malaya Medical Centre,excellent,1,0.5719,Positive
+University of Malaya Medical Centre,excessive,1,0.0,Neutral
+University of Malaya Medical Centre,excruciating,1,-0.6486,Negative
+University of Malaya Medical Centre,exemplary,1,0.0,Neutral
+University of Malaya Medical Centre,expect,1,0.0,Neutral
+University of Malaya Medical Centre,expected,1,0.0,Neutral
+University of Malaya Medical Centre,expensive,1,0.0,Neutral
+University of Malaya Medical Centre,experiment,1,0.0,Neutral
+University of Malaya Medical Centre,explained,1,0.0,Neutral
+University of Malaya Medical Centre,explanation,1,0.0,Neutral
+University of Malaya Medical Centre,expressing,1,0.0,Neutral
+University of Malaya Medical Centre,extra,1,0.0,Neutral
+University of Malaya Medical Centre,fainting,1,0.0,Neutral
+University of Malaya Medical Centre,fair,1,0.3182,Positive
+University of Malaya Medical Centre,falling,1,-0.1531,Neutral
+University of Malaya Medical Centre,family,1,0.0,Neutral
+University of Malaya Medical Centre,far,1,0.0,Neutral
+University of Malaya Medical Centre,fasal,1,0.0,Neutral
+University of Malaya Medical Centre,fast,1,0.0,Neutral
+University of Malaya Medical Centre,feed,1,0.0,Neutral
+University of Malaya Medical Centre,final,1,0.0,Neutral
+University of Malaya Medical Centre,find,1,0.0,Neutral
+University of Malaya Medical Centre,flash,1,0.0,Neutral
+University of Malaya Medical Centre,flesh,1,0.0,Neutral
+University of Malaya Medical Centre,fmly,1,0.0,Neutral
+University of Malaya Medical Centre,follow,1,0.0,Neutral
+University of Malaya Medical Centre,forever,1,0.0,Neutral
+University of Malaya Medical Centre,free,1,0.5106,Positive
+University of Malaya Medical Centre,fresh,1,0.3182,Positive
+University of Malaya Medical Centre,frm,1,0.0,Neutral
+University of Malaya Medical Centre,front,1,0.0,Neutral
+University of Malaya Medical Centre,frontliners,1,0.0,Neutral
+University of Malaya Medical Centre,frotliners,1,0.0,Neutral
+University of Malaya Medical Centre,fruit,1,0.0,Neutral
+University of Malaya Medical Centre,frustrated,1,-0.5267,Negative
+University of Malaya Medical Centre,full,1,0.0,Neutral
+University of Malaya Medical Centre,future,1,0.0,Neutral
+University of Malaya Medical Centre,generally,1,0.0,Neutral
+University of Malaya Medical Centre,geriatrician,1,0.0,Neutral
+University of Malaya Medical Centre,getting,1,0.0,Neutral
+University of Malaya Medical Centre,gila,1,0.0,Neutral
+University of Malaya Medical Centre,give,1,0.0,Neutral
+University of Malaya Medical Centre,god,1,0.2732,Neutral
+University of Malaya Medical Centre,got,1,0.0,Neutral
+University of Malaya Medical Centre,gratitude,1,0.5106,Positive
+University of Malaya Medical Centre,great,1,0.6249,Positive
+University of Malaya Medical Centre,guard,1,0.0,Neutral
+University of Malaya Medical Centre,guy,1,0.0,Neutral
+University of Malaya Medical Centre,hahaha,1,0.5574,Positive
+University of Malaya Medical Centre,hahahaha,1,0.0,Neutral
+University of Malaya Medical Centre,halal,1,0.0,Neutral
+University of Malaya Medical Centre,hangup,1,0.0,Neutral
+University of Malaya Medical Centre,hantar,1,0.0,Neutral
+University of Malaya Medical Centre,happen,1,0.0,Neutral
+University of Malaya Medical Centre,happy,1,0.5719,Positive
+University of Malaya Medical Centre,heart,1,0.0,Neutral
+University of Malaya Medical Centre,helped,1,0.0,Neutral
+University of Malaya Medical Centre,here,1,0.0,Neutral
+University of Malaya Medical Centre,"here""",1,0.0,Neutral
+University of Malaya Medical Centre,heroic,1,0.5574,Positive
+University of Malaya Medical Centre,history,1,0.0,Neutral
+University of Malaya Medical Centre,home,1,0.0,Neutral
+University of Malaya Medical Centre,honestly,1,0.4588,Positive
+University of Malaya Medical Centre,hope,1,0.4404,Positive
+University of Malaya Medical Centre,hoping,1,0.4215,Positive
+University of Malaya Medical Centre,hospital',1,0.0,Neutral
+University of Malaya Medical Centre,hours,1,0.0,Neutral
+University of Malaya Medical Centre,hurts,1,-0.4767,Negative
+University of Malaya Medical Centre,i've,1,0.0,Neutral
+University of Malaya Medical Centre,icu,1,0.0,Neutral
+University of Malaya Medical Centre,immediate,1,0.0,Neutral
+University of Malaya Medical Centre,immobile,1,0.0,Neutral
+University of Malaya Medical Centre,improved,1,0.4767,Positive
+University of Malaya Medical Centre,in-experienced,1,0.0,Neutral
+University of Malaya Medical Centre,including,1,0.0,Neutral
+University of Malaya Medical Centre,indian,1,0.0,Neutral
+University of Malaya Medical Centre,inferior,1,-0.4019,Negative
+University of Malaya Medical Centre,informed,1,0.0,Neutral
+University of Malaya Medical Centre,insisted,1,0.0,Neutral
+University of Malaya Medical Centre,instrument,1,0.0,Neutral
+University of Malaya Medical Centre,insyaallah,1,0.0,Neutral
+University of Malaya Medical Centre,irresponsible,1,-0.4404,Negative
+University of Malaya Medical Centre,itu,1,0.0,Neutral
+University of Malaya Medical Centre,journey,1,0.0,Neutral
+University of Malaya Medical Centre,juice,1,0.0,Neutral
+University of Malaya Medical Centre,july,1,0.0,Neutral
+University of Malaya Medical Centre,kali,1,0.0,Neutral
+University of Malaya Medical Centre,kanak-kanak,1,0.0,Neutral
+University of Malaya Medical Centre,kaur,1,0.0,Neutral
+University of Malaya Medical Centre,kayangan,1,0.0,Neutral
+University of Malaya Medical Centre,kepala,1,0.0,Neutral
+University of Malaya Medical Centre,kept,1,0.0,Neutral
+University of Malaya Medical Centre,kerana,1,0.0,Neutral
+University of Malaya Medical Centre,kerusi,1,0.0,Neutral
+University of Malaya Medical Centre,kill,1,-0.6908,Negative
+University of Malaya Medical Centre,kind,1,0.5267,Positive
+University of Malaya Medical Centre,klinik,1,0.0,Neutral
+University of Malaya Medical Centre,knowing,1,0.0,Neutral
+University of Malaya Medical Centre,kurang,1,0.0,Neutral
+University of Malaya Medical Centre,la,1,0.0,Neutral
+University of Malaya Medical Centre,lack,1,-0.3182,Negative
+University of Malaya Medical Centre,last,1,0.0,Neutral
+University of Malaya Medical Centre,later,1,0.0,Neutral
+University of Malaya Medical Centre,lebih,1,0.0,Neutral
+University of Malaya Medical Centre,lesser,1,0.0,Neutral
+University of Malaya Medical Centre,letter,1,0.0,Neutral
+University of Malaya Medical Centre,liaised,1,0.0,Neutral
+University of Malaya Medical Centre,likewise,1,0.0,Neutral
+University of Malaya Medical Centre,line,1,0.0,Neutral
+University of Malaya Medical Centre,literally,1,0.0,Neutral
+University of Malaya Medical Centre,longed,1,0.0,Neutral
+University of Malaya Medical Centre,loved,1,0.5994,Positive
+University of Malaya Medical Centre,lunch,1,0.0,Neutral
+University of Malaya Medical Centre,lunchtime,1,0.0,Neutral
+University of Malaya Medical Centre,luxury,1,0.0,Neutral
+University of Malaya Medical Centre,macam,1,0.0,Neutral
+University of Malaya Medical Centre,machine,1,0.0,Neutral
+University of Malaya Medical Centre,mahkamah,1,0.0,Neutral
+University of Malaya Medical Centre,maintained,1,0.0,Neutral
+University of Malaya Medical Centre,maintenance,1,0.0,Neutral
+University of Malaya Medical Centre,making,1,0.0,Neutral
+University of Malaya Medical Centre,malaya,1,0.0,Neutral
+University of Malaya Medical Centre,malaysian,1,0.0,Neutral
+University of Malaya Medical Centre,male,1,0.0,Neutral
+University of Malaya Medical Centre,man,1,0.0,Neutral
+University of Malaya Medical Centre,manage,1,0.0,Neutral
+University of Malaya Medical Centre,management,1,0.0,Neutral
+University of Malaya Medical Centre,manner,1,0.0,Neutral
+University of Malaya Medical Centre,mannerism,1,0.0,Neutral
+University of Malaya Medical Centre,masih,1,0.0,Neutral
+University of Malaya Medical Centre,maternity,1,0.0,Neutral
+University of Malaya Medical Centre,medication/treatment,1,0.0,Neutral
+University of Malaya Medical Centre,membantu,1,0.0,Neutral
+University of Malaya Medical Centre,member,1,0.0,Neutral
+University of Malaya Medical Centre,menara,1,0.0,Neutral
+University of Malaya Medical Centre,mengecewakan,1,0.0,Neutral
+University of Malaya Medical Centre,mentioned,1,0.0,Neutral
+University of Malaya Medical Centre,menunggu,1,0.0,Neutral
+University of Malaya Medical Centre,mere,1,0.0,Neutral
+University of Malaya Medical Centre,met,1,0.0,Neutral
+University of Malaya Medical Centre,might,1,0.0,Neutral
+University of Malaya Medical Centre,mile,1,0.0,Neutral
+University of Malaya Medical Centre,mind,1,0.0,Neutral
+University of Malaya Medical Centre,minimum,1,0.0,Neutral
+University of Malaya Medical Centre,minute,1,0.0,Neutral
+University of Malaya Medical Centre,modernity,1,0.0,Neutral
+University of Malaya Medical Centre,moldy,1,0.0,Neutral
+University of Malaya Medical Centre,monitor,1,0.0,Neutral
+University of Malaya Medical Centre,month,1,0.0,Neutral
+University of Malaya Medical Centre,moving,1,0.0,Neutral
+University of Malaya Medical Centre,much,1,0.0,Neutral
+University of Malaya Medical Centre,multiple,1,0.0,Neutral
+University of Malaya Medical Centre,nak,1,0.0,Neutral
+University of Malaya Medical Centre,named,1,0.0,Neutral
+University of Malaya Medical Centre,nasib,1,0.0,Neutral
+University of Malaya Medical Centre,needs,1,0.0,Neutral
+University of Malaya Medical Centre,negatif,1,0.0,Neutral
+University of Malaya Medical Centre,negative,1,-0.5719,Negative
+University of Malaya Medical Centre,nephro,1,0.0,Neutral
+University of Malaya Medical Centre,nice,1,0.4215,Positive
+University of Malaya Medical Centre,nombor,1,0.0,Neutral
+University of Malaya Medical Centre,non-critical,1,0.0,Neutral
+University of Malaya Medical Centre,now,1,0.0,Neutral
+University of Malaya Medical Centre,numerous,1,0.0,Neutral
+University of Malaya Medical Centre,nursing,1,0.0,Neutral
+University of Malaya Medical Centre,obviously,1,0.0,Neutral
+University of Malaya Medical Centre,officially,1,0.0,Neutral
+University of Malaya Medical Centre,okay,1,0.2263,Neutral
+University of Malaya Medical Centre,old,1,0.0,Neutral
+University of Malaya Medical Centre,one's,1,0.0,Neutral
+University of Malaya Medical Centre,ones,1,0.0,Neutral
+University of Malaya Medical Centre,operation,1,0.0,Neutral
+University of Malaya Medical Centre,ophthalmology,1,0.0,Neutral
+University of Malaya Medical Centre,order,1,0.0,Neutral
+University of Malaya Medical Centre,others,1,0.0,Neutral
+University of Malaya Medical Centre,outside,1,0.0,Neutral
+University of Malaya Medical Centre,overall,1,0.0,Neutral
+University of Malaya Medical Centre,pada,1,0.0,Neutral
+University of Malaya Medical Centre,paid,1,0.0,Neutral
+University of Malaya Medical Centre,palliative,1,0.0,Neutral
+University of Malaya Medical Centre,panic,1,-0.5106,Negative
+University of Malaya Medical Centre,parking,1,0.0,Neutral
+University of Malaya Medical Centre,passed,1,0.0,Neutral
+University of Malaya Medical Centre,past,1,0.0,Neutral
+University of Malaya Medical Centre,patient's,1,0.0,Neutral
+University of Malaya Medical Centre,patients,1,0.0,Neutral
+University of Malaya Medical Centre,paying,1,0.0,Neutral
+University of Malaya Medical Centre,payment,1,0.0,Neutral
+University of Malaya Medical Centre,pd,1,0.0,Neutral
+University of Malaya Medical Centre,pediatric,1,0.0,Neutral
+University of Malaya Medical Centre,pengsan,1,0.0,Neutral
+University of Malaya Medical Centre,pening,1,0.0,Neutral
+University of Malaya Medical Centre,pensioner,1,0.0,Neutral
+University of Malaya Medical Centre,person,1,0.0,Neutral
+University of Malaya Medical Centre,personal,1,0.0,Neutral
+University of Malaya Medical Centre,pesakit,1,0.0,Neutral
+University of Malaya Medical Centre,peskit,1,0.0,Neutral
+University of Malaya Medical Centre,phone,1,0.0,Neutral
+University of Malaya Medical Centre,physical,1,0.0,Neutral
+University of Malaya Medical Centre,ping,1,0.0,Neutral
+University of Malaya Medical Centre,pj,1,0.0,Neutral
+University of Malaya Medical Centre,plaque,1,0.0,Neutral
+University of Malaya Medical Centre,pleasant,1,0.5106,Positive
+University of Malaya Medical Centre,pm,1,0.0,Neutral
+University of Malaya Medical Centre,pon,1,0.0,Neutral
+University of Malaya Medical Centre,pong,1,0.0,Neutral
+University of Malaya Medical Centre,possible,1,0.0,Neutral
+University of Malaya Medical Centre,post,1,0.0,Neutral
+University of Malaya Medical Centre,ppl,1,0.0,Neutral
+University of Malaya Medical Centre,practice,1,0.0,Neutral
+University of Malaya Medical Centre,pregnant,1,0.0,Neutral
+University of Malaya Medical Centre,prescription,1,0.0,Neutral
+University of Malaya Medical Centre,pressing,1,0.0,Neutral
+University of Malaya Medical Centre,previous,1,0.0,Neutral
+University of Malaya Medical Centre,princess,1,0.0,Neutral
+University of Malaya Medical Centre,probably,1,0.0,Neutral
+University of Malaya Medical Centre,produced,1,0.0,Neutral
+University of Malaya Medical Centre,prof,1,0.0,Neutral
+University of Malaya Medical Centre,provide,1,0.0,Neutral
+University of Malaya Medical Centre,providing,1,0.0,Neutral
+University of Malaya Medical Centre,psychiatrist,1,0.0,Neutral
+University of Malaya Medical Centre,psychology,1,0.0,Neutral
+University of Malaya Medical Centre,punyelah,1,0.0,Neutral
+University of Malaya Medical Centre,pushed,1,0.0,Neutral
+University of Malaya Medical Centre,quite,1,0.0,Neutral
+University of Malaya Medical Centre,r1,1,0.0,Neutral
+University of Malaya Medical Centre,rabb,1,0.0,Neutral
+University of Malaya Medical Centre,rajwin,1,0.0,Neutral
+University of Malaya Medical Centre,rakyat,1,0.0,Neutral
+University of Malaya Medical Centre,ranjit,1,0.0,Neutral
+University of Malaya Medical Centre,rdy,1,0.0,Neutral
+University of Malaya Medical Centre,reached,1,0.1027,Neutral
+University of Malaya Medical Centre,react,1,0.0,Neutral
+University of Malaya Medical Centre,read,1,0.0,Neutral
+University of Malaya Medical Centre,reasonably,1,0.0,Neutral
+University of Malaya Medical Centre,recovery,1,0.0,Neutral
+University of Malaya Medical Centre,referral,1,0.0,Neutral
+University of Malaya Medical Centre,refurbishment,1,0.0,Neutral
+University of Malaya Medical Centre,regarding,1,0.0,Neutral
+University of Malaya Medical Centre,regardless,1,0.0,Neutral
+University of Malaya Medical Centre,register,1,0.0,Neutral
+University of Malaya Medical Centre,registration,1,0.0,Neutral
+University of Malaya Medical Centre,remediation,1,0.0,Neutral
+University of Malaya Medical Centre,remember,1,0.0,Neutral
+University of Malaya Medical Centre,requesting,1,0.0,Neutral
+University of Malaya Medical Centre,requirement,1,0.0,Neutral
+University of Malaya Medical Centre,respi,1,0.0,Neutral
+University of Malaya Medical Centre,responsibility,1,0.0,Neutral
+University of Malaya Medical Centre,result,1,0.0,Neutral
+University of Malaya Medical Centre,reviewed,1,0.0,Neutral
+University of Malaya Medical Centre,rm2,1,0.0,Neutral
+University of Malaya Medical Centre,rm20k,1,0.0,Neutral
+University of Malaya Medical Centre,rm6,1,0.0,Neutral
+University of Malaya Medical Centre,rudely,1,-0.4939,Negative
+University of Malaya Medical Centre,sabar,1,0.0,Neutral
+University of Malaya Medical Centre,sad,1,-0.4767,Negative
+University of Malaya Medical Centre,safe,1,0.4404,Positive
+University of Malaya Medical Centre,safely,1,0.4939,Positive
+University of Malaya Medical Centre,safety,1,0.4215,Positive
+University of Malaya Medical Centre,salary,1,0.0,Neutral
+University of Malaya Medical Centre,salute,1,0.0,Neutral
+University of Malaya Medical Centre,saving,1,0.0,Neutral
+University of Malaya Medical Centre,saya,1,0.0,Neutral
+University of Malaya Medical Centre,saying,1,0.0,Neutral
+University of Malaya Medical Centre,screaming,1,-0.3818,Negative
+University of Malaya Medical Centre,sebenarny,1,0.0,Neutral
+University of Malaya Medical Centre,seek,1,0.0,Neutral
+University of Malaya Medical Centre,seem,1,0.0,Neutral
+University of Malaya Medical Centre,seems,1,0.0,Neutral
+University of Malaya Medical Centre,selatan,1,0.0,Neutral
+University of Malaya Medical Centre,self,1,0.0,Neutral
+University of Malaya Medical Centre,semi,1,0.0,Neutral
+University of Malaya Medical Centre,semua,1,0.0,Neutral
+University of Malaya Medical Centre,send,1,0.0,Neutral
+University of Malaya Medical Centre,sending,1,0.0,Neutral
+University of Malaya Medical Centre,sering,1,0.0,Neutral
+University of Malaya Medical Centre,serve,1,0.0,Neutral
+University of Malaya Medical Centre,set,1,0.0,Neutral
+University of Malaya Medical Centre,sgt,1,0.0,Neutral
+University of Malaya Medical Centre,shift,1,0.0,Neutral
+University of Malaya Medical Centre,showing,1,0.0,Neutral
+University of Malaya Medical Centre,shown,1,0.0,Neutral
+University of Malaya Medical Centre,simply,1,0.0,Neutral
+University of Malaya Medical Centre,sistem,1,0.0,Neutral
+University of Malaya Medical Centre,slow,1,0.0,Neutral
+University of Malaya Medical Centre,smooth,1,0.0,Neutral
+University of Malaya Medical Centre,smpi,1,0.0,Neutral
+University of Malaya Medical Centre,snack,1,0.0,Neutral
+University of Malaya Medical Centre,so,1,0.0,Neutral
+University of Malaya Medical Centre,sombong,1,0.0,Neutral
+University of Malaya Medical Centre,sometime,1,0.0,Neutral
+University of Malaya Medical Centre,somewhere,1,0.0,Neutral
+University of Malaya Medical Centre,sop,1,0.0,Neutral
+University of Malaya Medical Centre,space,1,0.0,Neutral
+University of Malaya Medical Centre,specialist,1,0.0,Neutral
+University of Malaya Medical Centre,specific,1,0.0,Neutral
+University of Malaya Medical Centre,spike,1,0.0,Neutral
+University of Malaya Medical Centre,squeezed,1,0.0,Neutral
+University of Malaya Medical Centre,staf,1,0.0,Neutral
+University of Malaya Medical Centre,staffs,1,0.0,Neutral
+University of Malaya Medical Centre,staggered,1,0.0,Neutral
+University of Malaya Medical Centre,start,1,0.0,Neutral
+University of Malaya Medical Centre,started,1,0.0,Neutral
+University of Malaya Medical Centre,stem,1,0.0,Neutral
+University of Malaya Medical Centre,step,1,0.0,Neutral
+University of Malaya Medical Centre,stopped,1,-0.2263,Neutral
+University of Malaya Medical Centre,stroke,1,0.0,Neutral
+University of Malaya Medical Centre,struggling,1,-0.4215,Negative
+University of Malaya Medical Centre,student,1,0.0,Neutral
+University of Malaya Medical Centre,study,1,0.0,Neutral
+University of Malaya Medical Centre,stupid,1,-0.5267,Negative
+University of Malaya Medical Centre,subject,1,0.0,Neutral
+University of Malaya Medical Centre,sudah,1,0.0,Neutral
+University of Malaya Medical Centre,suffering,1,-0.4767,Negative
+University of Malaya Medical Centre,suffers,1,-0.4767,Negative
+University of Malaya Medical Centre,suka,1,0.0,Neutral
+University of Malaya Medical Centre,support,1,0.4019,Positive
+University of Malaya Medical Centre,suppose,1,0.0,Neutral
+University of Malaya Medical Centre,surat,1,0.0,Neutral
+University of Malaya Medical Centre,surgical,1,0.0,Neutral
+University of Malaya Medical Centre,surprised,1,0.2263,Neutral
+University of Malaya Medical Centre,sustenance,1,0.0,Neutral
+University of Malaya Medical Centre,switched,1,0.0,Neutral
+University of Malaya Medical Centre,sworn,1,0.0,Neutral
+University of Malaya Medical Centre,tak,1,0.0,Neutral
+University of Malaya Medical Centre,tanpa,1,0.0,Neutral
+University of Malaya Medical Centre,tasty,1,0.0,Neutral
+University of Malaya Medical Centre,tau,1,0.0,Neutral
+University of Malaya Medical Centre,tell,1,0.0,Neutral
+University of Malaya Medical Centre,term,1,0.0,Neutral
+University of Malaya Medical Centre,terribly,1,-0.5574,Negative
+University of Malaya Medical Centre,tersesat,1,0.0,Neutral
+University of Malaya Medical Centre,teruk,1,0.0,Neutral
+University of Malaya Medical Centre,terutama,1,0.0,Neutral
+University of Malaya Medical Centre,them,1,0.0,Neutral
+University of Malaya Medical Centre,though,1,0.0,Neutral
+University of Malaya Medical Centre,thought,1,0.0,Neutral
+University of Malaya Medical Centre,thousand,1,0.0,Neutral
+University of Malaya Medical Centre,throughout,1,0.0,Neutral
+University of Malaya Medical Centre,timely,1,0.0,Neutral
+University of Malaya Medical Centre,times,1,0.0,Neutral
+University of Malaya Medical Centre,toilet,1,0.0,Neutral
+University of Malaya Medical Centre,too,1,0.0,Neutral
+University of Malaya Medical Centre,top-quality,1,0.0,Neutral
+University of Malaya Medical Centre,train,1,0.0,Neutral
+University of Malaya Medical Centre,transferred,1,0.0,Neutral
+University of Malaya Medical Centre,transfusion,1,0.0,Neutral
+University of Malaya Medical Centre,treat,1,0.4019,Positive
+University of Malaya Medical Centre,triage,1,0.0,Neutral
+University of Malaya Medical Centre,tried,1,0.0,Neutral
+University of Malaya Medical Centre,true,1,0.4215,Positive
+University of Malaya Medical Centre,tunggu,1,0.0,Neutral
+University of Malaya Medical Centre,ultrasound,1,0.0,Neutral
+University of Malaya Medical Centre,ummc,1,0.0,Neutral
+University of Malaya Medical Centre,ummc's,1,0.0,Neutral
+University of Malaya Medical Centre,undergone,1,0.0,Neutral
+University of Malaya Medical Centre,unique,1,0.0,Neutral
+University of Malaya Medical Centre,unit,1,0.0,Neutral
+University of Malaya Medical Centre,university,1,0.0,Neutral
+University of Malaya Medical Centre,unless,1,0.0,Neutral
+University of Malaya Medical Centre,unprofessional,1,-0.5106,Negative
+University of Malaya Medical Centre,untoward,1,0.0,Neutral
+University of Malaya Medical Centre,updated,1,0.0,Neutral
+University of Malaya Medical Centre,upgrade,1,0.0,Neutral
+University of Malaya Medical Centre,using,1,0.0,Neutral
+University of Malaya Medical Centre,vaccine,1,0.0,Neutral
+University of Malaya Medical Centre,vaginal,1,0.0,Neutral
+University of Malaya Medical Centre,variety,1,0.0,Neutral
+University of Malaya Medical Centre,verge,1,0.0,Neutral
+University of Malaya Medical Centre,vip,1,0.5106,Positive
+University of Malaya Medical Centre,visited,1,0.0,Neutral
+University of Malaya Medical Centre,walkable,1,0.0,Neutral
+University of Malaya Medical Centre,wanita,1,0.0,Neutral
+University of Malaya Medical Centre,wanna,1,0.0,Neutral
+University of Malaya Medical Centre,wanted,1,0.0,Neutral
+University of Malaya Medical Centre,waste,1,-0.4215,Negative
+University of Malaya Medical Centre,wasting,1,-0.4019,Negative
+University of Malaya Medical Centre,way,1,0.0,Neutral
+University of Malaya Medical Centre,weak,1,-0.4404,Negative
+University of Malaya Medical Centre,week's,1,0.0,Neutral
+University of Malaya Medical Centre,well,1,0.2732,Neutral
+University of Malaya Medical Centre,what's,1,0.0,Neutral
+University of Malaya Medical Centre,who's,1,0.0,Neutral
+University of Malaya Medical Centre,whole,1,0.0,Neutral
+University of Malaya Medical Centre,window,1,0.0,Neutral
+University of Malaya Medical Centre,with,1,0.0,Neutral
+University of Malaya Medical Centre,within,1,0.0,Neutral
+University of Malaya Medical Centre,worst,1,-0.6249,Negative
+University of Malaya Medical Centre,write,1,0.0,Neutral
+University of Malaya Medical Centre,wrote,1,0.0,Neutral
+University of Malaya Medical Centre,x-ray,1,0.0,Neutral
+University of Malaya Medical Centre,xde,1,0.0,Neutral
+University of Malaya Medical Centre,xpenah,1,0.0,Neutral
+University of Malaya Medical Centre,xtau,1,0.0,Neutral
+University of Malaya Medical Centre,ya,1,0.0,Neutral
+University of Malaya Medical Centre,yang,1,0.0,Neutral
+University of Malaya Medical Centre,yesterday,1,0.0,Neutral
+University of Malaya Medical Centre,yg,1,0.0,Neutral
+University of Malaya Medical Centre,zone,1,0.0,Neutral
+Sunway Medical Centre,wa,28,0.0,Neutral
+Sunway Medical Centre,staff,8,0.0,Neutral
+Sunway Medical Centre,nurse,7,0.0,Neutral
+Sunway Medical Centre,service,7,0.0,Neutral
+Sunway Medical Centre,time,7,0.0,Neutral
+Sunway Medical Centre,excellent,6,0.5719,Positive
+Sunway Medical Centre,medical,6,0.0,Neutral
+Sunway Medical Centre,counter,5,0.0,Neutral
+Sunway Medical Centre,patient,5,0.0,Neutral
+Sunway Medical Centre,ward,5,0.0,Neutral
+Sunway Medical Centre,&,4,0.0,Neutral
+Sunway Medical Centre,admission,4,0.0,Neutral
+Sunway Medical Centre,also,4,0.0,Neutral
+Sunway Medical Centre,centre,4,0.0,Neutral
+Sunway Medical Centre,check,4,0.0,Neutral
+Sunway Medical Centre,good,4,0.4404,Positive
+Sunway Medical Centre,gown,4,0.0,Neutral
+Sunway Medical Centre,hospital,4,0.0,Neutral
+Sunway Medical Centre,however,4,0.0,Neutral
+Sunway Medical Centre,keep,4,0.0,Neutral
+Sunway Medical Centre,surgery,4,0.0,Neutral
+Sunway Medical Centre,went,4,0.0,Neutral
+Sunway Medical Centre,wheeled,4,0.0,Neutral
+Sunway Medical Centre,would,4,0.0,Neutral
+Sunway Medical Centre,arrived,3,0.0,Neutral
+Sunway Medical Centre,ask,3,0.0,Neutral
+Sunway Medical Centre,attended,3,0.0,Neutral
+Sunway Medical Centre,care,3,0.4939,Positive
+Sunway Medical Centre,dr,3,0.0,Neutral
+Sunway Medical Centre,facility,3,0.0,Neutral
+Sunway Medical Centre,finally,3,0.0,Neutral
+Sunway Medical Centre,floor,3,0.0,Neutral
+Sunway Medical Centre,get,3,0.0,Neutral
+Sunway Medical Centre,given,3,0.0,Neutral
+Sunway Medical Centre,go,3,0.0,Neutral
+Sunway Medical Centre,ha,3,0.34,Positive
+Sunway Medical Centre,informed,3,0.0,Neutral
+Sunway Medical Centre,knowing,3,0.0,Neutral
+Sunway Medical Centre,left,3,0.0,Neutral
+Sunway Medical Centre,many,3,0.0,Neutral
+Sunway Medical Centre,one,3,0.0,Neutral
+Sunway Medical Centre,place,3,0.0,Neutral
+Sunway Medical Centre,process,3,0.0,Neutral
+Sunway Medical Centre,room,3,0.0,Neutral
+Sunway Medical Centre,sop,3,0.0,Neutral
+Sunway Medical Centre,treatment,3,0.0,Neutral
+Sunway Medical Centre,again,2,0.0,Neutral
+Sunway Medical Centre,appreciation,2,0.5106,Positive
+Sunway Medical Centre,arrangement,2,0.0,Neutral
+Sunway Medical Centre,assistance,2,0.0,Neutral
+Sunway Medical Centre,back,2,0.0,Neutral
+Sunway Medical Centre,change,2,0.0,Neutral
+Sunway Medical Centre,checked,2,0.0,Neutral
+Sunway Medical Centre,come,2,0.0,Neutral
+Sunway Medical Centre,covid,2,0.0,Neutral
+Sunway Medical Centre,customer,2,0.0,Neutral
+Sunway Medical Centre,detail,2,0.0,Neutral
+Sunway Medical Centre,different,2,0.0,Neutral
+Sunway Medical Centre,doctor,2,0.0,Neutral
+Sunway Medical Centre,emergency,2,-0.3818,Negative
+Sunway Medical Centre,entire,2,0.0,Neutral
+Sunway Medical Centre,even,2,0.0,Neutral
+Sunway Medical Centre,find,2,0.0,Neutral
+Sunway Medical Centre,getting,2,0.0,Neutral
+Sunway Medical Centre,going,2,0.0,Neutral
+Sunway Medical Centre,half,2,0.0,Neutral
+Sunway Medical Centre,health,2,0.0,Neutral
+Sunway Medical Centre,instead,2,0.0,Neutral
+Sunway Medical Centre,job,2,0.0,Neutral
+Sunway Medical Centre,like,2,0.3612,Positive
+Sunway Medical Centre,made,2,0.0,Neutral
+Sunway Medical Centre,medicine,2,0.0,Neutral
+Sunway Medical Centre,need,2,0.0,Neutral
+Sunway Medical Centre,next,2,0.0,Neutral
+Sunway Medical Centre,nice,2,0.4215,Positive
+Sunway Medical Centre,nobody,2,0.0,Neutral
+Sunway Medical Centre,nuclear,2,0.0,Neutral
+Sunway Medical Centre,op,2,0.0,Neutral
+Sunway Medical Centre,past,2,0.0,Neutral
+Sunway Medical Centre,redirected,2,0.0,Neutral
+Sunway Medical Centre,six,2,0.0,Neutral
+Sunway Medical Centre,size,2,0.0,Neutral
+Sunway Medical Centre,smc,2,0.0,Neutral
+Sunway Medical Centre,step,2,0.0,Neutral
+Sunway Medical Centre,sunway,2,0.0,Neutral
+Sunway Medical Centre,team,2,0.0,Neutral
+Sunway Medical Centre,theatre,2,0.0,Neutral
+Sunway Medical Centre,took,2,0.0,Neutral
+Sunway Medical Centre,two,2,0.0,Neutral
+Sunway Medical Centre,want,2,0.0772,Neutral
+Sunway Medical Centre,way,2,0.0,Neutral
+Sunway Medical Centre,well,2,0.2732,Neutral
+Sunway Medical Centre,without,2,0.0,Neutral
+Sunway Medical Centre,-,1,0.0,Neutral
+Sunway Medical Centre,13years,1,0.0,Neutral
+Sunway Medical Centre,3rd,1,0.0,Neutral
+Sunway Medical Centre,4d,1,0.0,Neutral
+Sunway Medical Centre,4th,1,0.0,Neutral
+Sunway Medical Centre,6,1,0.0,Neutral
+Sunway Medical Centre,7am,1,0.0,Neutral
+Sunway Medical Centre,actual,1,0.0,Neutral
+Sunway Medical Centre,admin,1,0.0,Neutral
+Sunway Medical Centre,alone,1,-0.25,Neutral
+Sunway Medical Centre,along,1,0.0,Neutral
+Sunway Medical Centre,amazing,1,0.5859,Positive
+Sunway Medical Centre,anaesthetist,1,0.0,Neutral
+Sunway Medical Centre,annual,1,0.0,Neutral
+Sunway Medical Centre,anwar,1,0.0,Neutral
+Sunway Medical Centre,appointed,1,0.0,Neutral
+Sunway Medical Centre,around,1,0.0,Neutral
+Sunway Medical Centre,arrival,1,0.0,Neutral
+Sunway Medical Centre,astounding,1,0.4215,Positive
+Sunway Medical Centre,atmosphere,1,0.0,Neutral
+Sunway Medical Centre,attention,1,0.0,Neutral
+Sunway Medical Centre,attentive,1,0.0,Neutral
+Sunway Medical Centre,avoid,1,-0.296,Neutral
+Sunway Medical Centre,away,1,0.0,Neutral
+Sunway Medical Centre,bed,1,0.0,Neutral
+Sunway Medical Centre,best,1,0.6369,Positive
+Sunway Medical Centre,better,1,0.4404,Positive
+Sunway Medical Centre,bit,1,0.0,Neutral
+Sunway Medical Centre,blessing,1,0.4939,Positive
+Sunway Medical Centre,boast,1,0.0,Neutral
+Sunway Medical Centre,booster,1,0.0,Neutral
+Sunway Medical Centre,booth,1,0.0,Neutral
+Sunway Medical Centre,bothered,1,-0.3182,Negative
+Sunway Medical Centre,bring,1,0.0,Neutral
+Sunway Medical Centre,bringing,1,0.0,Neutral
+Sunway Medical Centre,buzz,1,0.0,Neutral
+Sunway Medical Centre,buzzer,1,0.0,Neutral
+Sunway Medical Centre,cancer,1,-0.6597,Negative
+Sunway Medical Centre,carefully,1,0.128,Neutral
+Sunway Medical Centre,caught,1,0.0,Neutral
+Sunway Medical Centre,checkup,1,0.0,Neutral
+Sunway Medical Centre,choose,1,0.0,Neutral
+Sunway Medical Centre,citizen,1,0.0,Neutral
+Sunway Medical Centre,class,1,0.0,Neutral
+Sunway Medical Centre,clinic,1,0.0,Neutral
+Sunway Medical Centre,closer,1,0.0,Neutral
+Sunway Medical Centre,comfort,1,0.3612,Positive
+Sunway Medical Centre,comfortable,1,0.5106,Positive
+Sunway Medical Centre,communal,1,0.0,Neutral
+Sunway Medical Centre,compare,1,0.0,Neutral
+Sunway Medical Centre,competent,1,0.3182,Positive
+Sunway Medical Centre,complement,1,0.0,Neutral
+Sunway Medical Centre,complete,1,0.0,Neutral
+Sunway Medical Centre,condition,1,0.0,Neutral
+Sunway Medical Centre,could,1,0.0,Neutral
+Sunway Medical Centre,courteous,1,0.5106,Positive
+Sunway Medical Centre,cutting,1,-0.128,Neutral
+Sunway Medical Centre,dato,1,0.0,Neutral
+Sunway Medical Centre,daycare,1,0.0,Neutral
+Sunway Medical Centre,decade,1,0.0,Neutral
+Sunway Medical Centre,definitely,1,0.4019,Positive
+Sunway Medical Centre,delay,1,-0.3182,Negative
+Sunway Medical Centre,describe,1,0.0,Neutral
+Sunway Medical Centre,deserve,1,0.0,Neutral
+Sunway Medical Centre,deserves,1,0.0,Neutral
+Sunway Medical Centre,diagnostic,1,0.0,Neutral
+Sunway Medical Centre,didn’t,1,0.0,Neutral
+Sunway Medical Centre,difference,1,0.0,Neutral
+Sunway Medical Centre,difficult,1,-0.3612,Negative
+Sunway Medical Centre,diligent,1,0.0,Neutral
+Sunway Medical Centre,direct,1,0.0,Neutral
+Sunway Medical Centre,discharge,1,0.0,Neutral
+Sunway Medical Centre,drawer,1,0.0,Neutral
+Sunway Medical Centre,earlier,1,0.0,Neutral
+Sunway Medical Centre,early,1,0.0,Neutral
+Sunway Medical Centre,easy,1,0.4404,Positive
+Sunway Medical Centre,edge,1,0.0,Neutral
+Sunway Medical Centre,elder,1,0.0,Neutral
+Sunway Medical Centre,empathy,1,0.0,Neutral
+Sunway Medical Centre,ensures,1,0.0,Neutral
+Sunway Medical Centre,error,1,-0.4019,Negative
+Sunway Medical Centre,everyone,1,0.0,Neutral
+Sunway Medical Centre,experience,1,0.0,Neutral
+Sunway Medical Centre,explain,1,0.0,Neutral
+Sunway Medical Centre,extend,1,0.1779,Neutral
+Sunway Medical Centre,far,1,0.0,Neutral
+Sunway Medical Centre,field,1,0.0,Neutral
+Sunway Medical Centre,first,1,0.0,Neutral
+Sunway Medical Centre,focus,1,0.0,Neutral
+Sunway Medical Centre,folk,1,0.0,Neutral
+Sunway Medical Centre,food,1,0.0,Neutral
+Sunway Medical Centre,form,1,0.0,Neutral
+Sunway Medical Centre,four,1,0.0,Neutral
+Sunway Medical Centre,friendly,1,0.4939,Positive
+Sunway Medical Centre,ga,1,0.0,Neutral
+Sunway Medical Centre,gee,1,0.0,Neutral
+Sunway Medical Centre,god’s,1,0.0,Neutral
+Sunway Medical Centre,gold,1,0.0,Neutral
+Sunway Medical Centre,got,1,0.0,Neutral
+Sunway Medical Centre,gp,1,0.0,Neutral
+Sunway Medical Centre,grace,1,0.4215,Positive
+Sunway Medical Centre,gratitude,1,0.5106,Positive
+Sunway Medical Centre,helpful,1,0.4215,Positive
+Sunway Medical Centre,hence,1,0.0,Neutral
+Sunway Medical Centre,home,1,0.0,Neutral
+Sunway Medical Centre,hope,1,0.4404,Positive
+Sunway Medical Centre,hospitalization,1,0.0,Neutral
+Sunway Medical Centre,hotel,1,0.0,Neutral
+Sunway Medical Centre,hour,1,0.0,Neutral
+Sunway Medical Centre,housed,1,0.0,Neutral
+Sunway Medical Centre,hungry,1,0.0,Neutral
+Sunway Medical Centre,i've,1,0.0,Neutral
+Sunway Medical Centre,immediately,1,0.0,Neutral
+Sunway Medical Centre,improves,1,0.4215,Positive
+Sunway Medical Centre,inform,1,0.0,Neutral
+Sunway Medical Centre,informing,1,0.0,Neutral
+Sunway Medical Centre,informs,1,0.0,Neutral
+Sunway Medical Centre,intent,1,0.0,Neutral
+Sunway Medical Centre,international,1,0.0,Neutral
+Sunway Medical Centre,i‘ve,1,0.0,Neutral
+Sunway Medical Centre,jab,1,0.0,Neutral
+Sunway Medical Centre,jam,1,0.0,Neutral
+Sunway Medical Centre,joanne,1,0.0,Neutral
+Sunway Medical Centre,journey,1,0.0,Neutral
+Sunway Medical Centre,khairil,1,0.0,Neutral
+Sunway Medical Centre,kindness,1,0.4588,Positive
+Sunway Medical Centre,lastly,1,0.0,Neutral
+Sunway Medical Centre,least,1,0.0,Neutral
+Sunway Medical Centre,leaving,1,0.0,Neutral
+Sunway Medical Centre,let's,1,0.0,Neutral
+Sunway Medical Centre,letting,1,0.0,Neutral
+Sunway Medical Centre,life,1,0.0,Neutral
+Sunway Medical Centre,literally,1,0.0,Neutral
+Sunway Medical Centre,lobby,1,0.0258,Neutral
+Sunway Medical Centre,locker,1,0.0,Neutral
+Sunway Medical Centre,long,1,0.0,Neutral
+Sunway Medical Centre,longer,1,0.0,Neutral
+Sunway Medical Centre,look,1,0.0,Neutral
+Sunway Medical Centre,lost,1,-0.3182,Negative
+Sunway Medical Centre,lurch,1,0.0,Neutral
+Sunway Medical Centre,managed,1,0.0,Neutral
+Sunway Medical Centre,management,1,0.0,Neutral
+Sunway Medical Centre,medal,1,0.4767,Positive
+Sunway Medical Centre,mention,1,0.0,Neutral
+Sunway Medical Centre,mentioned,1,0.0,Neutral
+Sunway Medical Centre,minute,1,0.0,Neutral
+Sunway Medical Centre,moment,1,0.0,Neutral
+Sunway Medical Centre,morning,1,0.0,Neutral
+Sunway Medical Centre,mother,1,0.0,Neutral
+Sunway Medical Centre,mr,1,0.0,Neutral
+Sunway Medical Centre,ms,1,0.0,Neutral
+Sunway Medical Centre,much,1,0.0,Neutral
+Sunway Medical Centre,multiple,1,0.0,Neutral
+Sunway Medical Centre,near,1,0.0,Neutral
+Sunway Medical Centre,nearby,1,0.0,Neutral
+Sunway Medical Centre,necessity,1,0.0,Neutral
+Sunway Medical Centre,negative,1,-0.5719,Negative
+Sunway Medical Centre,notice,1,0.0,Neutral
+Sunway Medical Centre,number,1,0.0772,Neutral
+Sunway Medical Centre,open,1,0.0,Neutral
+Sunway Medical Centre,operation,1,0.0,Neutral
+Sunway Medical Centre,operational,1,0.0,Neutral
+Sunway Medical Centre,operative,1,0.0,Neutral
+Sunway Medical Centre,paperwork,1,0.0,Neutral
+Sunway Medical Centre,parent,1,0.0,Neutral
+Sunway Medical Centre,part,1,0.0,Neutral
+Sunway Medical Centre,passed,1,0.0,Neutral
+Sunway Medical Centre,payment,1,0.0,Neutral
+Sunway Medical Centre,performed,1,0.0,Neutral
+Sunway Medical Centre,pharmacy,1,0.0,Neutral
+Sunway Medical Centre,picture,1,0.0,Neutral
+Sunway Medical Centre,point,1,0.0,Neutral
+Sunway Medical Centre,private,1,0.0,Neutral
+Sunway Medical Centre,procedure,1,0.0,Neutral
+Sunway Medical Centre,professional,1,0.0,Neutral
+Sunway Medical Centre,professionalism,1,0.0,Neutral
+Sunway Medical Centre,prominent,1,0.3182,Positive
+Sunway Medical Centre,provided,1,0.0,Neutral
+Sunway Medical Centre,providing,1,0.0,Neutral
+Sunway Medical Centre,purpose,1,0.0,Neutral
+Sunway Medical Centre,put,1,0.0,Neutral
+Sunway Medical Centre,ravi's,1,0.0,Neutral
+Sunway Medical Centre,receive,1,0.0,Neutral
+Sunway Medical Centre,received,1,0.0,Neutral
+Sunway Medical Centre,recommend,1,0.3612,Positive
+Sunway Medical Centre,renowned,1,0.0,Neutral
+Sunway Medical Centre,require,1,0.0,Neutral
+Sunway Medical Centre,researcher,1,0.0,Neutral
+Sunway Medical Centre,result,1,0.0,Neutral
+Sunway Medical Centre,sakes,1,0.0,Neutral
+Sunway Medical Centre,saving,1,0.0,Neutral
+Sunway Medical Centre,say,1,0.0,Neutral
+Sunway Medical Centre,scrambling,1,0.0,Neutral
+Sunway Medical Centre,senior,1,0.0,Neutral
+Sunway Medical Centre,services,1,0.0,Neutral
+Sunway Medical Centre,share,1,0.296,Neutral
+Sunway Medical Centre,shared,1,0.34,Positive
+Sunway Medical Centre,short,1,0.0,Neutral
+Sunway Medical Centre,shouldn’t,1,0.0,Neutral
+Sunway Medical Centre,shout,1,0.0,Neutral
+Sunway Medical Centre,showed,1,0.0,Neutral
+Sunway Medical Centre,signage,1,0.0,Neutral
+Sunway Medical Centre,sincere,1,0.4019,Positive
+Sunway Medical Centre,sincerely,1,0.4767,Positive
+Sunway Medical Centre,smoothly,1,0.0,Neutral
+Sunway Medical Centre,sops,1,0.0,Neutral
+Sunway Medical Centre,sorry,1,-0.0772,Neutral
+Sunway Medical Centre,space,1,0.0,Neutral
+Sunway Medical Centre,spacious,1,0.0,Neutral
+Sunway Medical Centre,speak,1,0.0,Neutral
+Sunway Medical Centre,specialist,1,0.0,Neutral
+Sunway Medical Centre,star,1,0.0,Neutral
+Sunway Medical Centre,starred,1,0.0,Neutral
+Sunway Medical Centre,successfully,1,0.4939,Positive
+Sunway Medical Centre,surgeon,1,0.0,Neutral
+Sunway Medical Centre,surprise,1,0.2732,Neutral
+Sunway Medical Centre,surroundings,1,0.0,Neutral
+Sunway Medical Centre,take,1,0.0,Neutral
+Sunway Medical Centre,taken,1,0.0,Neutral
+Sunway Medical Centre,tan,1,0.0,Neutral
+Sunway Medical Centre,technology,1,0.0,Neutral
+Sunway Medical Centre,tent,1,0.0,Neutral
+Sunway Medical Centre,thank,1,0.3612,Positive
+Sunway Medical Centre,thanks,1,0.4404,Positive
+Sunway Medical Centre,therapeutic,1,0.0,Neutral
+Sunway Medical Centre,there's,1,0.0,Neutral
+Sunway Medical Centre,tikfu,1,0.0,Neutral
+Sunway Medical Centre,till,1,0.0,Neutral
+Sunway Medical Centre,to,1,0.0,Neutral
+Sunway Medical Centre,tourism,1,0.0,Neutral
+Sunway Medical Centre,tower,1,0.0,Neutral
+Sunway Medical Centre,tqvm,1,0.0,Neutral
+Sunway Medical Centre,true,1,0.4215,Positive
+Sunway Medical Centre,tummy,1,0.0,Neutral
+Sunway Medical Centre,turns,1,0.0,Neutral
+Sunway Medical Centre,uneducated,1,0.0,Neutral
+Sunway Medical Centre,unfortunately,1,-0.34,Negative
+Sunway Medical Centre,ushered,1,0.0,Neutral
+Sunway Medical Centre,valuable,1,0.4767,Positive
+Sunway Medical Centre,wait,1,0.0,Neutral
+Sunway Medical Centre,waiting,1,0.0,Neutral
+Sunway Medical Centre,walk,1,0.0,Neutral
+Sunway Medical Centre,walked,1,0.0,Neutral
+Sunway Medical Centre,what’s,1,0.0,Neutral
+Sunway Medical Centre,wheel,1,0.0,Neutral
+Sunway Medical Centre,wheelchair,1,0.0,Neutral
+Sunway Medical Centre,word,1,0.0,Neutral
+Sunway Medical Centre,world,1,0.0,Neutral
+Sunway Medical Centre,worry,1,-0.4404,Negative
+Sunway Medical Centre,year,1,0.0,Neutral
+Sunway Medical Centre,yet,1,0.0,Neutral
+Sunway Medical Centre,you,1,0.0,Neutral
+Kuala Lumpur General Hospital,hospital,6,0.0,Neutral
+Kuala Lumpur General Hospital,local,5,0.0,Neutral
+Kuala Lumpur General Hospital,u,5,0.0,Neutral
+Kuala Lumpur General Hospital,doctor,3,0.0,Neutral
+Kuala Lumpur General Hospital,good,3,0.4404,Positive
+Kuala Lumpur General Hospital,station,3,0.0,Neutral
+Kuala Lumpur General Hospital,bad,2,-0.5423,Negative
+Kuala Lumpur General Hospital,customer,2,0.0,Neutral
+Kuala Lumpur General Hospital,dokter,2,0.0,Neutral
+Kuala Lumpur General Hospital,help,2,0.4019,Positive
+Kuala Lumpur General Hospital,hosp,2,0.0,Neutral
+Kuala Lumpur General Hospital,like,2,0.3612,Positive
+Kuala Lumpur General Hospital,next,2,0.0,Neutral
+Kuala Lumpur General Hospital,parking,2,0.0,Neutral
+Kuala Lumpur General Hospital,receptionist,2,0.0,Neutral
+Kuala Lumpur General Hospital,said,2,0.0,Neutral
+Kuala Lumpur General Hospital,service,2,0.0,Neutral
+Kuala Lumpur General Hospital,thank,2,0.3612,Positive
+Kuala Lumpur General Hospital,told,2,0.0,Neutral
+Kuala Lumpur General Hospital,want,2,0.0772,Neutral
+Kuala Lumpur General Hospital,-klinik,1,0.0,Neutral
+Kuala Lumpur General Hospital,11,1,0.0,Neutral
+Kuala Lumpur General Hospital,12,1,0.0,Neutral
+Kuala Lumpur General Hospital,25pm,1,0.0,Neutral
+Kuala Lumpur General Hospital,30am,1,0.0,Neutral
+Kuala Lumpur General Hospital,30pm,1,0.0,Neutral
+Kuala Lumpur General Hospital,35,1,0.0,Neutral
+Kuala Lumpur General Hospital,3rd,1,0.0,Neutral
+Kuala Lumpur General Hospital,5,1,0.0,Neutral
+Kuala Lumpur General Hospital,7,1,0.0,Neutral
+Kuala Lumpur General Hospital,9,1,0.0,Neutral
+Kuala Lumpur General Hospital,asking,1,0.0,Neutral
+Kuala Lumpur General Hospital,azizah,1,0.0,Neutral
+Kuala Lumpur General Hospital,bangunan,1,0.0,Neutral
+Kuala Lumpur General Hospital,banyak,1,0.0,Neutral
+Kuala Lumpur General Hospital,bertingkat,1,0.0,Neutral
+Kuala Lumpur General Hospital,bless,1,0.4215,Positive
+Kuala Lumpur General Hospital,building,1,0.0,Neutral
+Kuala Lumpur General Hospital,called,1,0.0,Neutral
+Kuala Lumpur General Hospital,cek,1,0.0,Neutral
+Kuala Lumpur General Hospital,charge,1,0.0,Neutral
+Kuala Lumpur General Hospital,choose,1,0.0,Neutral
+Kuala Lumpur General Hospital,class,1,0.0,Neutral
+Kuala Lumpur General Hospital,come,1,0.0,Neutral
+Kuala Lumpur General Hospital,convenient,1,0.0,Neutral
+Kuala Lumpur General Hospital,die,1,-0.5994,Negative
+Kuala Lumpur General Hospital,emergency,1,-0.3818,Negative
+Kuala Lumpur General Hospital,ever,1,0.0,Neutral
+Kuala Lumpur General Hospital,excellent,1,0.5719,Positive
+Kuala Lumpur General Hospital,expect,1,0.0,Neutral
+Kuala Lumpur General Hospital,explanation,1,0.0,Neutral
+Kuala Lumpur General Hospital,extra,1,0.0,Neutral
+Kuala Lumpur General Hospital,feeling,1,0.128,Neutral
+Kuala Lumpur General Hospital,fine,1,0.2023,Neutral
+Kuala Lumpur General Hospital,finish,1,0.0,Neutral
+Kuala Lumpur General Hospital,frontliner,1,0.0,Neutral
+Kuala Lumpur General Hospital,g,1,0.0,Neutral
+Kuala Lumpur General Hospital,girl,1,0.0,Neutral
+Kuala Lumpur General Hospital,government,1,0.0,Neutral
+Kuala Lumpur General Hospital,guy,1,0.0,Neutral
+Kuala Lumpur General Hospital,hkl,1,0.0,Neutral
+Kuala Lumpur General Hospital,hospital's,1,0.0,Neutral
+Kuala Lumpur General Hospital,hulk,1,0.0,Neutral
+Kuala Lumpur General Hospital,i’m,1,0.0,Neutral
+Kuala Lumpur General Hospital,jela,1,0.0,Neutral
+Kuala Lumpur General Hospital,kind,1,0.5267,Positive
+Kuala Lumpur General Hospital,listening,1,0.0,Neutral
+Kuala Lumpur General Hospital,manner,1,0.0,Neutral
+Kuala Lumpur General Hospital,may,1,0.0,Neutral
+Kuala Lumpur General Hospital,medicine,1,0.0,Neutral
+Kuala Lumpur General Hospital,met,1,0.0,Neutral
+Kuala Lumpur General Hospital,money,1,0.0,Neutral
+Kuala Lumpur General Hospital,mrt,1,0.0,Neutral
+Kuala Lumpur General Hospital,much,1,0.0,Neutral
+Kuala Lumpur General Hospital,near,1,0.0,Neutral
+Kuala Lumpur General Hospital,need,1,0.0,Neutral
+Kuala Lumpur General Hospital,neurology-,1,0.0,Neutral
+Kuala Lumpur General Hospital,number,1,0.0772,Neutral
+Kuala Lumpur General Hospital,people,1,0.0,Neutral
+Kuala Lumpur General Hospital,poor,1,-0.4767,Negative
+Kuala Lumpur General Hospital,providing,1,0.0,Neutral
+Kuala Lumpur General Hospital,raja,1,0.0,Neutral
+Kuala Lumpur General Hospital,rangking,1,0.0,Neutral
+Kuala Lumpur General Hospital,really,1,0.0,Neutral
+Kuala Lumpur General Hospital,red,1,0.0,Neutral
+Kuala Lumpur General Hospital,rude,1,-0.4588,Negative
+Kuala Lumpur General Hospital,say,1,0.0,Neutral
+Kuala Lumpur General Hospital,seevice,1,0.0,Neutral
+Kuala Lumpur General Hospital,sentence,1,0.0772,Neutral
+Kuala Lumpur General Hospital,serve,1,0.0,Neutral
+Kuala Lumpur General Hospital,shame,1,-0.4767,Negative
+Kuala Lumpur General Hospital,show,1,0.0,Neutral
+Kuala Lumpur General Hospital,side,1,0.0,Neutral
+Kuala Lumpur General Hospital,skill,1,0.0,Neutral
+Kuala Lumpur General Hospital,sleping,1,0.0,Neutral
+Kuala Lumpur General Hospital,solution,1,0.3182,Positive
+Kuala Lumpur General Hospital,songeh,1,0.0,Neutral
+Kuala Lumpur General Hospital,specialist,1,0.0,Neutral
+Kuala Lumpur General Hospital,staff,1,0.0,Neutral
+Kuala Lumpur General Hospital,star,1,0.0,Neutral
+Kuala Lumpur General Hospital,swasta,1,0.0,Neutral
+Kuala Lumpur General Hospital,tell,1,0.0,Neutral
+Kuala Lumpur General Hospital,that's,1,0.0,Neutral
+Kuala Lumpur General Hospital,til,1,0.0,Neutral
+Kuala Lumpur General Hospital,titiwangsa,1,0.0,Neutral
+Kuala Lumpur General Hospital,today,1,0.0,Neutral
+Kuala Lumpur General Hospital,tunku,1,0.0,Neutral
+Kuala Lumpur General Hospital,turning,1,0.0,Neutral
+Kuala Lumpur General Hospital,uda,1,0.0,Neutral
+Kuala Lumpur General Hospital,wait,1,0.0,Neutral
+Kuala Lumpur General Hospital,waiting,1,0.0,Neutral
+Kuala Lumpur General Hospital,way,1,0.0,Neutral
+Kuala Lumpur General Hospital,yet,1,0.0,Neutral
+Kuala Lumpur General Hospital,zone,1,0.0,Neutral
+Hospital Putrajaya,hospital,65,0.0,Neutral
+Hospital Putrajaya,putrajaya,19,0.0,Neutral
+Hospital Putrajaya,wa,18,0.0,Neutral
+Hospital Putrajaya,doctor,16,0.0,Neutral
+Hospital Putrajaya,staff,12,0.0,Neutral
+Hospital Putrajaya,parking,11,0.0,Neutral
+Hospital Putrajaya,service,11,0.0,Neutral
+Hospital Putrajaya,like,10,0.3612,Positive
+Hospital Putrajaya,patient,10,0.0,Neutral
+Hospital Putrajaya,time,10,0.0,Neutral
+Hospital Putrajaya,care,9,0.4939,Positive
+Hospital Putrajaya,good,9,0.4404,Positive
+Hospital Putrajaya,go,8,0.0,Neutral
+Hospital Putrajaya,nurse,8,0.0,Neutral
+Hospital Putrajaya,waiting,8,0.0,Neutral
+Hospital Putrajaya,well,8,0.2732,Neutral
+Hospital Putrajaya,appointment,7,0.0,Neutral
+Hospital Putrajaya,ha,7,0.34,Positive
+Hospital Putrajaya,better,6,0.4404,Positive
+Hospital Putrajaya,said,6,0.0,Neutral
+Hospital Putrajaya,treatment,6,0.0,Neutral
+Hospital Putrajaya,1,5,0.0,Neutral
+Hospital Putrajaya,best,5,0.6369,Positive
+Hospital Putrajaya,blood,5,0.0,Neutral
+Hospital Putrajaya,called,5,0.0,Neutral
+Hospital Putrajaya,cost,5,0.0,Neutral
+Hospital Putrajaya,even,5,0.0,Neutral
+Hospital Putrajaya,give,5,0.0,Neutral
+Hospital Putrajaya,phone,5,0.0,Neutral
+Hospital Putrajaya,system,5,0.0,Neutral
+Hospital Putrajaya,u,5,0.0,Neutral
+Hospital Putrajaya,always,4,0.0,Neutral
+Hospital Putrajaya,area,4,0.0,Neutral
+Hospital Putrajaya,check,4,0.0,Neutral
+Hospital Putrajaya,clinic,4,0.0,Neutral
+Hospital Putrajaya,doctors,4,0.0,Neutral
+Hospital Putrajaya,excellent,4,0.5719,Positive
+Hospital Putrajaya,free,4,0.5106,Positive
+Hospital Putrajaya,friendly,4,0.4939,Positive
+Hospital Putrajaya,government,4,0.0,Neutral
+Hospital Putrajaya,hour,4,0.0,Neutral
+Hospital Putrajaya,job,4,0.0,Neutral
+Hospital Putrajaya,long,4,0.0,Neutral
+Hospital Putrajaya,lost,4,-0.3182,Negative
+Hospital Putrajaya,management,4,0.0,Neutral
+Hospital Putrajaya,medical,4,0.0,Neutral
+Hospital Putrajaya,never,4,0.0,Neutral
+Hospital Putrajaya,number,4,0.0772,Neutral
+Hospital Putrajaya,one,4,0.0,Neutral
+Hospital Putrajaya,people,4,0.0,Neutral
+Hospital Putrajaya,private,4,0.0,Neutral
+Hospital Putrajaya,really,4,0.0,Neutral
+Hospital Putrajaya,specialist,4,0.0,Neutral
+Hospital Putrajaya,vaccine,4,0.0,Neutral
+Hospital Putrajaya,ward,4,0.0,Neutral
+Hospital Putrajaya,work,4,0.0,Neutral
+Hospital Putrajaya,4,3,0.0,Neutral
+Hospital Putrajaya,alam,3,0.0,Neutral
+Hospital Putrajaya,apple,3,0.0,Neutral
+Hospital Putrajaya,asked,3,0.0,Neutral
+Hospital Putrajaya,back,3,0.0,Neutral
+Hospital Putrajaya,call,3,0.0,Neutral
+Hospital Putrajaya,came,3,0.0,Neutral
+Hospital Putrajaya,clean,3,0.4019,Positive
+Hospital Putrajaya,client,3,0.0,Neutral
+Hospital Putrajaya,come,3,0.0,Neutral
+Hospital Putrajaya,coming,3,0.0,Neutral
+Hospital Putrajaya,could,3,0.0,Neutral
+Hospital Putrajaya,covid,3,0.0,Neutral
+Hospital Putrajaya,day,3,0.0,Neutral
+Hospital Putrajaya,disappointed,3,-0.4767,Negative
+Hospital Putrajaya,done,3,0.0,Neutral
+Hospital Putrajaya,excellence,3,0.6249,Positive
+Hospital Putrajaya,full,3,0.0,Neutral
+Hospital Putrajaya,get,3,0.0,Neutral
+Hospital Putrajaya,hopefully,3,0.4019,Positive
+Hospital Putrajaya,information,3,0.0,Neutral
+Hospital Putrajaya,keep,3,0.0,Neutral
+Hospital Putrajaya,line,3,0.0,Neutral
+Hospital Putrajaya,located,3,0.0,Neutral
+Hospital Putrajaya,lot,3,0.0,Neutral
+Hospital Putrajaya,maintained,3,0.0,Neutral
+Hospital Putrajaya,managed,3,0.0,Neutral
+Hospital Putrajaya,modern,3,0.0,Neutral
+Hospital Putrajaya,must,3,0.0,Neutral
+Hospital Putrajaya,nice,3,0.4215,Positive
+Hospital Putrajaya,ok,3,0.296,Neutral
+Hospital Putrajaya,pain,3,-0.5106,Negative
+Hospital Putrajaya,procedure,3,0.0,Neutral
+Hospital Putrajaya,professional,3,0.0,Neutral
+Hospital Putrajaya,progressive,3,0.0,Neutral
+Hospital Putrajaya,public,3,0.0,Neutral
+Hospital Putrajaya,quality,3,0.0,Neutral
+Hospital Putrajaya,question,3,0.0,Neutral
+Hospital Putrajaya,say,3,0.0,Neutral
+Hospital Putrajaya,shah,3,0.0,Neutral
+Hospital Putrajaya,still,3,0.0,Neutral
+Hospital Putrajaya,super,3,0.5994,Positive
+Hospital Putrajaya,take,3,0.0,Neutral
+Hospital Putrajaya,though,3,0.0,Neutral
+Hospital Putrajaya,trauma,3,-0.4215,Negative
+Hospital Putrajaya,want,3,0.0772,Neutral
+Hospital Putrajaya,went,3,0.0,Neutral
+Hospital Putrajaya,wife,3,0.0,Neutral
+Hospital Putrajaya,within,3,0.0,Neutral
+Hospital Putrajaya,11,2,0.0,Neutral
+Hospital Putrajaya,15,2,0.0,Neutral
+Hospital Putrajaya,3,2,0.0,Neutral
+Hospital Putrajaya,7/10:,2,0.0,Neutral
+Hospital Putrajaya,8/10:,2,0.0,Neutral
+Hospital Putrajaya,9,2,0.0,Neutral
+Hospital Putrajaya,affair,2,0.0,Neutral
+Hospital Putrajaya,although,2,0.0,Neutral
+Hospital Putrajaya,amik,2,0.0,Neutral
+Hospital Putrajaya,anney,2,0.0,Neutral
+Hospital Putrajaya,anyway,2,0.0,Neutral
+Hospital Putrajaya,ask,2,0.0,Neutral
+Hospital Putrajaya,bad,2,-0.5423,Negative
+Hospital Putrajaya,baru,2,0.0,Neutral
+Hospital Putrajaya,based,2,0.0,Neutral
+Hospital Putrajaya,benefit,2,0.4588,Positive
+Hospital Putrajaya,big,2,0.0,Neutral
+Hospital Putrajaya,birth,2,0.0,Neutral
+Hospital Putrajaya,case,2,0.0,Neutral
+Hospital Putrajaya,centre,2,0.0,Neutral
+Hospital Putrajaya,chargeable,2,0.0,Neutral
+Hospital Putrajaya,chest,2,0.0,Neutral
+Hospital Putrajaya,ckp,2,0.0,Neutral
+Hospital Putrajaya,class,2,0.0,Neutral
+Hospital Putrajaya,cold,2,0.0,Neutral
+Hospital Putrajaya,committed,2,0.2732,Neutral
+Hospital Putrajaya,conducive,2,0.0,Neutral
+Hospital Putrajaya,corridor,2,0.0,Neutral
+Hospital Putrajaya,credit,2,0.3818,Positive
+Hospital Putrajaya,department,2,0.0,Neutral
+Hospital Putrajaya,despite,2,0.0,Neutral
+Hospital Putrajaya,double,2,0.0,Neutral
+Hospital Putrajaya,dr,2,0.0,Neutral
+Hospital Putrajaya,due,2,0.0,Neutral
+Hospital Putrajaya,dy,2,0.0,Neutral
+Hospital Putrajaya,emergency,2,-0.3818,Negative
+Hospital Putrajaya,enough,2,0.0,Neutral
+Hospital Putrajaya,entire,2,0.0,Neutral
+Hospital Putrajaya,environment,2,0.0,Neutral
+Hospital Putrajaya,especially,2,0.0,Neutral
+Hospital Putrajaya,everything,2,0.0,Neutral
+Hospital Putrajaya,experience,2,0.0,Neutral
+Hospital Putrajaya,explanation,2,0.0,Neutral
+Hospital Putrajaya,facilities,2,0.0,Neutral
+Hospital Putrajaya,found,2,0.0,Neutral
+Hospital Putrajaya,fpp,2,0.0,Neutral
+Hospital Putrajaya,front,2,0.0,Neutral
+Hospital Putrajaya,gave,2,0.0,Neutral
+Hospital Putrajaya,given,2,0.0,Neutral
+Hospital Putrajaya,going,2,0.0,Neutral
+Hospital Putrajaya,h,2,0.0,Neutral
+Hospital Putrajaya,hari,2,0.0,Neutral
+Hospital Putrajaya,health,2,0.0,Neutral
+Hospital Putrajaya,heart,2,0.0,Neutral
+Hospital Putrajaya,high,2,0.0,Neutral
+Hospital Putrajaya,hosp,2,0.0,Neutral
+Hospital Putrajaya,improve,2,0.4404,Positive
+Hospital Putrajaya,including,2,0.0,Neutral
+Hospital Putrajaya,incompetent,2,-0.4767,Negative
+Hospital Putrajaya,irresponsible,2,-0.4404,Negative
+Hospital Putrajaya,issue,2,0.0,Neutral
+Hospital Putrajaya,kita,2,0.0,Neutral
+Hospital Putrajaya,know,2,0.0,Neutral
+Hospital Putrajaya,left,2,0.0,Neutral
+Hospital Putrajaya,letter,2,0.0,Neutral
+Hospital Putrajaya,level,2,0.0,Neutral
+Hospital Putrajaya,local,2,0.0,Neutral
+Hospital Putrajaya,lp,2,0.0,Neutral
+Hospital Putrajaya,luck,2,0.4588,Positive
+Hospital Putrajaya,masa,2,0.0,Neutral
+Hospital Putrajaya,may,2,0.0,Neutral
+Hospital Putrajaya,mayo,2,0.0,Neutral
+Hospital Putrajaya,medicine,2,0.0,Neutral
+Hospital Putrajaya,mind,2,0.0,Neutral
+Hospital Putrajaya,mindset,2,0.0,Neutral
+Hospital Putrajaya,model,2,0.0,Neutral
+Hospital Putrajaya,mrs,2,0.0,Neutral
+Hospital Putrajaya,multimedia,2,0.0,Neutral
+Hospital Putrajaya,negligence,2,0.0,Neutral
+Hospital Putrajaya,new,2,0.0,Neutral
+Hospital Putrajaya,note,2,0.0,Neutral
+Hospital Putrajaya,o&g,2,0.0,Neutral
+Hospital Putrajaya,office,2,0.0,Neutral
+Hospital Putrajaya,officer,2,0.0,Neutral
+Hospital Putrajaya,outpatient,2,0.0,Neutral
+Hospital Putrajaya,park,2,0.0,Neutral
+Hospital Putrajaya,patient's,2,0.0,Neutral
+Hospital Putrajaya,pay,2,-0.1027,Neutral
+Hospital Putrajaya,pi,2,0.0,Neutral
+Hospital Putrajaya,place,2,0.0,Neutral
+Hospital Putrajaya,please,2,0.3182,Positive
+Hospital Putrajaya,process,2,0.0,Neutral
+Hospital Putrajaya,referral,2,0.0,Neutral
+Hospital Putrajaya,right,2,0.0,Neutral
+Hospital Putrajaya,room,2,0.0,Neutral
+Hospital Putrajaya,run,2,0.0,Neutral
+Hospital Putrajaya,seems,2,0.0,Neutral
+Hospital Putrajaya,send,2,0.0,Neutral
+Hospital Putrajaya,sick,2,-0.5106,Negative
+Hospital Putrajaya,son,2,0.0,Neutral
+Hospital Putrajaya,soon,2,0.0,Neutral
+Hospital Putrajaya,start,2,0.0,Neutral
+Hospital Putrajaya,stop,2,-0.296,Neutral
+Hospital Putrajaya,sure,2,0.3182,Positive
+Hospital Putrajaya,sy,2,0.0,Neutral
+Hospital Putrajaya,t,2,0.0,Neutral
+Hospital Putrajaya,tapi,2,0.0,Neutral
+Hospital Putrajaya,test,2,0.0,Neutral
+Hospital Putrajaya,tgu,2,0.0,Neutral
+Hospital Putrajaya,thanks,2,0.4404,Positive
+Hospital Putrajaya,tmpt,2,0.0,Neutral
+Hospital Putrajaya,today,2,0.0,Neutral
+Hospital Putrajaya,toilet,2,0.0,Neutral
+Hospital Putrajaya,total,2,0.0,Neutral
+Hospital Putrajaya,towards,2,0.0,Neutral
+Hospital Putrajaya,treated,2,0.0,Neutral
+Hospital Putrajaya,tu,2,0.0,Neutral
+Hospital Putrajaya,utk,2,0.0,Neutral
+Hospital Putrajaya,wait,2,0.0,Neutral
+Hospital Putrajaya,walked,2,0.0,Neutral
+Hospital Putrajaya,watch,2,0.0,Neutral
+Hospital Putrajaya,wheelchair,2,0.0,Neutral
+Hospital Putrajaya,wonder,2,0.0,Neutral
+Hospital Putrajaya,wonderful,2,0.5719,Positive
+Hospital Putrajaya,world,2,0.0,Neutral
+Hospital Putrajaya,would,2,0.0,Neutral
+Hospital Putrajaya,wound,2,0.0,Neutral
+Hospital Putrajaya,wrong,2,-0.4767,Negative
+Hospital Putrajaya,x,2,0.0,Neutral
+Hospital Putrajaya,xray,2,0.0,Neutral
+Hospital Putrajaya,young,2,0.0,Neutral
+Hospital Putrajaya,"""reliability""",1,0.0,Neutral
+Hospital Putrajaya,"""saturday",1,0.0,Neutral
+Hospital Putrajaya,"""this",1,0.0,Neutral
+Hospital Putrajaya,&,1,0.0,Neutral
+Hospital Putrajaya,'1st,1,0.0,Neutral
+Hospital Putrajaya,-government,1,0.0,Neutral
+Hospital Putrajaya,00am,1,0.0,Neutral
+Hospital Putrajaya,1-2,1,0.0,Neutral
+Hospital Putrajaya,1/10:,1,0.0,Neutral
+Hospital Putrajaya,10,1,0.0,Neutral
+Hospital Putrajaya,10/10,1,0.0,Neutral
+Hospital Putrajaya,19,1,0.0,Neutral
+Hospital Putrajaya,1st,1,0.0,Neutral
+Hospital Putrajaya,2,1,0.0,Neutral
+Hospital Putrajaya,2020=new,1,0.0,Neutral
+Hospital Putrajaya,2021,1,0.0,Neutral
+Hospital Putrajaya,2021:,1,0.0,Neutral
+Hospital Putrajaya,2a,1,0.0,Neutral
+Hospital Putrajaya,3/10:,1,0.0,Neutral
+Hospital Putrajaya,30am,1,0.0,Neutral
+Hospital Putrajaya,30pm,1,0.0,Neutral
+Hospital Putrajaya,341,1,0.0,Neutral
+Hospital Putrajaya,35-,1,0.0,Neutral
+Hospital Putrajaya,37,1,0.0,Neutral
+Hospital Putrajaya,38,1,0.0,Neutral
+Hospital Putrajaya,4/10:,1,0.0,Neutral
+Hospital Putrajaya,5,1,0.0,Neutral
+Hospital Putrajaya,5/10:,1,0.0,Neutral
+Hospital Putrajaya,6,1,0.0,Neutral
+Hospital Putrajaya,7,1,0.0,Neutral
+Hospital Putrajaya,7/8/2021,1,0.0,Neutral
+Hospital Putrajaya,7am,1,0.0,Neutral
+Hospital Putrajaya,8,1,0.0,Neutral
+Hospital Putrajaya,8am,1,0.0,Neutral
+Hospital Putrajaya,abd,1,0.0,Neutral
+Hospital Putrajaya,abuse,1,-0.6369,Negative
+Hospital Putrajaya,accept,1,0.3818,Positive
+Hospital Putrajaya,according,1,0.0,Neutral
+Hospital Putrajaya,action,1,0.0,Neutral
+Hospital Putrajaya,additional,1,0.0,Neutral
+Hospital Putrajaya,adequate,1,0.2263,Neutral
+Hospital Putrajaya,administrative,1,0.0,Neutral
+Hospital Putrajaya,advertising,1,0.0,Neutral
+Hospital Putrajaya,affordable,1,0.0,Neutral
+Hospital Putrajaya,ahead,1,0.0,Neutral
+Hospital Putrajaya,al,1,0.0,Neutral
+Hospital Putrajaya,alhamdulillah,1,0.0,Neutral
+Hospital Putrajaya,all,1,0.0,Neutral
+Hospital Putrajaya,allah,1,0.0,Neutral
+Hospital Putrajaya,allergic,1,-0.296,Neutral
+Hospital Putrajaya,alleviate,1,0.0,Neutral
+Hospital Putrajaya,almost,1,0.0,Neutral
+Hospital Putrajaya,also,1,0.0,Neutral
+Hospital Putrajaya,ambulance,1,0.0,Neutral
+Hospital Putrajaya,annoying,1,-0.4019,Negative
+Hospital Putrajaya,another,1,0.0,Neutral
+Hospital Putrajaya,answer,1,0.0,Neutral
+Hospital Putrajaya,answered,1,0.0,Neutral
+Hospital Putrajaya,anything,1,0.0,Neutral
+Hospital Putrajaya,apa2,1,0.0,Neutral
+Hospital Putrajaya,asking,1,0.0,Neutral
+Hospital Putrajaya,authority,1,0.0772,Neutral
+Hospital Putrajaya,available,1,0.0,Neutral
+Hospital Putrajaya,avoid,1,-0.296,Neutral
+Hospital Putrajaya,awhile,1,0.0,Neutral
+Hospital Putrajaya,awl2,1,0.0,Neutral
+Hospital Putrajaya,ayah,1,0.0,Neutral
+Hospital Putrajaya,baby's,1,0.0,Neutral
+Hospital Putrajaya,badly,1,-0.4767,Negative
+Hospital Putrajaya,baik,1,0.0,Neutral
+Hospital Putrajaya,bank,1,0.0,Neutral
+Hospital Putrajaya,base,1,0.0,Neutral
+Hospital Putrajaya,basically,1,0.0,Neutral
+Hospital Putrajaya,beating,1,-0.4588,Negative
+Hospital Putrajaya,beautiful,1,0.5994,Positive
+Hospital Putrajaya,became,1,0.0,Neutral
+Hospital Putrajaya,bed,1,0.0,Neutral
+Hospital Putrajaya,begging,1,0.0,Neutral
+Hospital Putrajaya,beginning,1,0.0,Neutral
+Hospital Putrajaya,behave,1,0.0,Neutral
+Hospital Putrajaya,behavior,1,0.0,Neutral
+Hospital Putrajaya,behind,1,0.0,Neutral
+Hospital Putrajaya,being,1,0.0,Neutral
+Hospital Putrajaya,benchmark,1,0.0,Neutral
+Hospital Putrajaya,betterment,1,0.0,Neutral
+Hospital Putrajaya,biashe2,1,0.0,Neutral
+Hospital Putrajaya,biggest,1,0.0,Neutral
+Hospital Putrajaya,bill,1,0.0,Neutral
+Hospital Putrajaya,binti,1,0.0,Neutral
+Hospital Putrajaya,blah,1,-0.1027,Neutral
+Hospital Putrajaya,blame,1,-0.34,Negative
+Hospital Putrajaya,bleeding,1,0.0,Neutral
+Hospital Putrajaya,bless,1,0.4215,Positive
+Hospital Putrajaya,blk,1,0.0,Neutral
+Hospital Putrajaya,bos,1,0.0,Neutral
+Hospital Putrajaya,boss',1,0.0,Neutral
+Hospital Putrajaya,break,1,0.0,Neutral
+Hospital Putrajaya,breathing,1,0.0,Neutral
+Hospital Putrajaya,brg,1,0.0,Neutral
+Hospital Putrajaya,bruise,1,0.0,Neutral
+Hospital Putrajaya,btugas,1,0.0,Neutral
+Hospital Putrajaya,bureaucratic,1,0.0,Neutral
+Hospital Putrajaya,buwt,1,0.0,Neutral
+Hospital Putrajaya,bwh,1,0.0,Neutral
+Hospital Putrajaya,byr,1,0.0,Neutral
+Hospital Putrajaya,c,1,0.0,Neutral
+Hospital Putrajaya,cafe,1,0.0,Neutral
+Hospital Putrajaya,calling,1,0.0,Neutral
+Hospital Putrajaya,can,1,0.0,Neutral
+Hospital Putrajaya,cancer,1,-0.6597,Negative
+Hospital Putrajaya,cannot,1,0.0,Neutral
+Hospital Putrajaya,canteen,1,0.0,Neutral
+Hospital Putrajaya,care',1,0.4939,Positive
+Hospital Putrajaya,caring,1,0.4939,Positive
+Hospital Putrajaya,carpark,1,0.0,Neutral
+Hospital Putrajaya,cater,1,0.0,Neutral
+Hospital Putrajaya,caused,1,0.0,Neutral
+Hospital Putrajaya,center,1,0.0,Neutral
+Hospital Putrajaya,charge,1,0.0,Neutral
+Hospital Putrajaya,cheap,1,0.0,Neutral
+Hospital Putrajaya,checked,1,0.0,Neutral
+Hospital Putrajaya,checkup,1,0.0,Neutral
+Hospital Putrajaya,child,1,0.0,Neutral
+Hospital Putrajaya,chitchatting,1,0.0,Neutral
+Hospital Putrajaya,claim,1,0.0,Neutral
+Hospital Putrajaya,clerk,1,0.0,Neutral
+Hospital Putrajaya,clink,1,0.0,Neutral
+Hospital Putrajaya,colleges,1,0.0,Neutral
+Hospital Putrajaya,columbia,1,0.0,Neutral
+Hospital Putrajaya,comfort,1,0.3612,Positive
+Hospital Putrajaya,commited,1,0.0,Neutral
+Hospital Putrajaya,communication,1,0.0,Neutral
+Hospital Putrajaya,community,1,0.0,Neutral
+Hospital Putrajaya,compare,1,0.0,Neutral
+Hospital Putrajaya,competency;,1,0.0,Neutral
+Hospital Putrajaya,competent,1,0.3182,Positive
+Hospital Putrajaya,complaint,1,-0.296,Neutral
+Hospital Putrajaya,compromise,1,0.0,Neutral
+Hospital Putrajaya,concentration,1,0.0,Neutral
+Hospital Putrajaya,confirm,1,0.0,Neutral
+Hospital Putrajaya,congratulations,1,0.5994,Positive
+Hospital Putrajaya,considering,1,0.0,Neutral
+Hospital Putrajaya,continuing,1,0.0,Neutral
+Hospital Putrajaya,conversation,1,0.0,Neutral
+Hospital Putrajaya,cooperation,1,0.0,Neutral
+Hospital Putrajaya,correct,1,0.0,Neutral
+Hospital Putrajaya,coughed,1,0.0,Neutral
+Hospital Putrajaya,counter7,1,0.0,Neutral
+Hospital Putrajaya,course,1,0.0,Neutral
+Hospital Putrajaya,courteous,1,0.5106,Positive
+Hospital Putrajaya,crack,1,0.0,Neutral
+Hospital Putrajaya,crk,1,0.0,Neutral
+Hospital Putrajaya,crowded,1,0.0,Neutral
+Hospital Putrajaya,customer,1,0.0,Neutral
+Hospital Putrajaya,dah,1,0.0,Neutral
+Hospital Putrajaya,dalila,1,0.0,Neutral
+Hospital Putrajaya,dan,1,0.0,Neutral
+Hospital Putrajaya,dare,1,0.0,Neutral
+Hospital Putrajaya,de,1,0.0,Neutral
+Hospital Putrajaya,dead,1,-0.6486,Negative
+Hospital Putrajaya,deal,1,0.0,Neutral
+Hospital Putrajaya,deposit,1,0.0,Neutral
+Hospital Putrajaya,designed,1,0.0,Neutral
+Hospital Putrajaya,desk,1,0.0,Neutral
+Hospital Putrajaya,die,1,-0.5994,Negative
+Hospital Putrajaya,disappear,1,-0.2263,Neutral
+Hospital Putrajaya,dish,1,0.0,Neutral
+Hospital Putrajaya,dissapointed,1,0.0,Neutral
+Hospital Putrajaya,district,1,0.0,Neutral
+Hospital Putrajaya,doctornursestaff,1,0.0,Neutral
+Hospital Putrajaya,doe,1,0.0,Neutral
+Hospital Putrajaya,donate,1,0.0,Neutral
+Hospital Putrajaya,dont,1,0.0,Neutral
+Hospital Putrajaya,draw,1,0.0,Neutral
+Hospital Putrajaya,dried,1,0.0,Neutral
+Hospital Putrajaya,driver/grab,1,0.0,Neutral
+Hospital Putrajaya,durian,1,0.0,Neutral
+Hospital Putrajaya,duty,1,0.0,Neutral
+Hospital Putrajaya,ear,1,0.0,Neutral
+Hospital Putrajaya,earlier,1,0.0,Neutral
+Hospital Putrajaya,early,1,0.0,Neutral
+Hospital Putrajaya,echocardiogram,1,0.0,Neutral
+Hospital Putrajaya,edit,1,0.0,Neutral
+Hospital Putrajaya,edit22,1,0.0,Neutral
+Hospital Putrajaya,educated,1,0.0,Neutral
+Hospital Putrajaya,element,1,0.0,Neutral
+Hospital Putrajaya,else,1,0.0,Neutral
+Hospital Putrajaya,endocrinology,1,0.0,Neutral
+Hospital Putrajaya,endured,1,0.0,Neutral
+Hospital Putrajaya,enter,1,0.0,Neutral
+Hospital Putrajaya,equine,1,0.0,Neutral
+Hospital Putrajaya,er,1,0.0,Neutral
+Hospital Putrajaya,ever,1,0.0,Neutral
+Hospital Putrajaya,every,1,0.0,Neutral
+Hospital Putrajaya,exactly,1,0.0,Neutral
+Hospital Putrajaya,examination,1,0.0,Neutral
+Hospital Putrajaya,expected,1,0.0,Neutral
+Hospital Putrajaya,expensive,1,0.0,Neutral
+Hospital Putrajaya,experimental,1,0.0,Neutral
+Hospital Putrajaya,explain,1,0.0,Neutral
+Hospital Putrajaya,extremely,1,0.0,Neutral
+Hospital Putrajaya,fact,1,0.0,Neutral
+Hospital Putrajaya,failed,1,-0.5106,Negative
+Hospital Putrajaya,fair,1,0.3182,Positive
+Hospital Putrajaya,family,1,0.0,Neutral
+Hospital Putrajaya,father,1,0.0,Neutral
+Hospital Putrajaya,fatihah,1,0.0,Neutral
+Hospital Putrajaya,february,1,0.0,Neutral
+Hospital Putrajaya,federal,1,0.0,Neutral
+Hospital Putrajaya,feel,1,0.0,Neutral
+Hospital Putrajaya,feeling,1,0.128,Neutral
+Hospital Putrajaya,fell,1,0.0,Neutral
+Hospital Putrajaya,felt,1,0.0,Neutral
+Hospital Putrajaya,female,1,0.0,Neutral
+Hospital Putrajaya,festered,1,0.0,Neutral
+Hospital Putrajaya,fill,1,0.0,Neutral
+Hospital Putrajaya,finally,1,0.0,Neutral
+Hospital Putrajaya,find,1,0.0,Neutral
+Hospital Putrajaya,finding,1,0.0,Neutral
+Hospital Putrajaya,focused,1,0.3818,Positive
+Hospital Putrajaya,follow,1,0.0,Neutral
+Hospital Putrajaya,food,1,0.0,Neutral
+Hospital Putrajaya,foreigners,1,0.0,Neutral
+Hospital Putrajaya,friend,1,0.4939,Positive
+Hospital Putrajaya,frm,1,0.0,Neutral
+Hospital Putrajaya,frontlines,1,0.0,Neutral
+Hospital Putrajaya,frustrating,1,-0.4404,Negative
+Hospital Putrajaya,fully,1,0.0,Neutral
+Hospital Putrajaya,garbage,1,0.0,Neutral
+Hospital Putrajaya,gee,1,0.0,Neutral
+Hospital Putrajaya,general,1,0.0,Neutral
+Hospital Putrajaya,girl,1,0.0,Neutral
+Hospital Putrajaya,giving,1,0.34,Positive
+Hospital Putrajaya,glenegles,1,0.0,Neutral
+Hospital Putrajaya,goal,1,0.0,Neutral
+Hospital Putrajaya,god,1,0.2732,Neutral
+Hospital Putrajaya,google,1,0.0,Neutral
+Hospital Putrajaya,got,1,0.0,Neutral
+Hospital Putrajaya,gov,1,0.0,Neutral
+Hospital Putrajaya,goverment,1,0.0,Neutral
+Hospital Putrajaya,gratitude,1,0.5106,Positive
+Hospital Putrajaya,grocery,1,0.0,Neutral
+Hospital Putrajaya,grrr,1,-0.1027,Neutral
+Hospital Putrajaya,guards,1,0.0,Neutral
+Hospital Putrajaya,guy,1,0.0,Neutral
+Hospital Putrajaya,happy:,1,0.5719,Positive
+Hospital Putrajaya,harebrained,1,0.0,Neutral
+Hospital Putrajaya,haven’t,1,0.0,Neutral
+Hospital Putrajaya,head,1,0.0,Neutral
+Hospital Putrajaya,heavily,1,0.0,Neutral
+Hospital Putrajaya,help,1,0.4019,Positive
+Hospital Putrajaya,helpful,1,0.4215,Positive
+Hospital Putrajaya,her,1,0.0,Neutral
+Hospital Putrajaya,here,1,0.0,Neutral
+Hospital Putrajaya,hilang,1,0.0,Neutral
+Hospital Putrajaya,him,1,0.0,Neutral
+Hospital Putrajaya,home,1,0.0,Neutral
+Hospital Putrajaya,hope,1,0.4404,Positive
+Hospital Putrajaya,hopkins,1,0.0,Neutral
+Hospital Putrajaya,hotspot,1,0.0,Neutral
+Hospital Putrajaya,hp,1,0.0,Neutral
+Hospital Putrajaya,hr,1,0.0,Neutral
+Hospital Putrajaya,human,1,0.0,Neutral
+Hospital Putrajaya,i,1,0.0,Neutral
+Hospital Putrajaya,i'd,1,0.0,Neutral
+Hospital Putrajaya,i'm,1,0.0,Neutral
+Hospital Putrajaya,ignored,1,-0.3182,Negative
+Hospital Putrajaya,ikn,1,0.0,Neutral
+Hospital Putrajaya,immediately,1,0.0,Neutral
+Hospital Putrajaya,inadequate,1,-0.4019,Negative
+Hospital Putrajaya,inappropriate,1,0.0,Neutral
+Hospital Putrajaya,indented,1,0.0,Neutral
+Hospital Putrajaya,infection,1,0.0,Neutral
+Hospital Putrajaya,inpatient,1,0.0,Neutral
+Hospital Putrajaya,inr,1,0.0,Neutral
+Hospital Putrajaya,insists,1,0.0,Neutral
+Hospital Putrajaya,institute,1,0.0,Neutral
+Hospital Putrajaya,insurance,1,0.0,Neutral
+Hospital Putrajaya,intensive,1,0.0,Neutral
+Hospital Putrajaya,involvement,1,0.0,Neutral
+Hospital Putrajaya,it’s,1,0.0,Neutral
+Hospital Putrajaya,jaya,1,0.0,Neutral
+Hospital Putrajaya,jgk,1,0.0,Neutral
+Hospital Putrajaya,johns,1,0.0,Neutral
+Hospital Putrajaya,junction,1,0.0,Neutral
+Hospital Putrajaya,kajang,1,0.0,Neutral
+Hospital Putrajaya,ke,1,0.0,Neutral
+Hospital Putrajaya,keeping,1,0.0,Neutral
+Hospital Putrajaya,keluar,1,0.0,Neutral
+Hospital Putrajaya,kite,1,0.0,Neutral
+Hospital Putrajaya,kna,1,0.0,Neutral
+Hospital Putrajaya,kpj,1,0.0,Neutral
+Hospital Putrajaya,land,1,0.0,Neutral
+Hospital Putrajaya,last2,1,0.0,Neutral
+Hospital Putrajaya,lately,1,0.0,Neutral
+Hospital Putrajaya,later,1,0.0,Neutral
+Hospital Putrajaya,latest,1,0.0,Neutral
+Hospital Putrajaya,laughing,1,0.4939,Positive
+Hospital Putrajaya,leave,1,-0.0516,Neutral
+Hospital Putrajaya,lepas,1,0.0,Neutral
+Hospital Putrajaya,life,1,0.0,Neutral
+Hospital Putrajaya,limited,1,-0.2263,Neutral
+Hospital Putrajaya,liner,1,0.0,Neutral
+Hospital Putrajaya,listening,1,0.0,Neutral
+Hospital Putrajaya,locals,1,0.0,Neutral
+Hospital Putrajaya,location,1,0.0,Neutral
+Hospital Putrajaya,longer,1,0.0,Neutral
+Hospital Putrajaya,lucky,1,0.4215,Positive
+Hospital Putrajaya,made,1,0.0,Neutral
+Hospital Putrajaya,main,1,0.0,Neutral
+Hospital Putrajaya,maintains,1,0.0,Neutral
+Hospital Putrajaya,make,1,0.0,Neutral
+Hospital Putrajaya,makes,1,0.0,Neutral
+Hospital Putrajaya,malaysia,1,0.0,Neutral
+Hospital Putrajaya,managing,1,0.0,Neutral
+Hospital Putrajaya,mannered,1,0.0,Neutral
+Hospital Putrajaya,many,1,0.0,Neutral
+Hospital Putrajaya,massachusetts,1,0.0,Neutral
+Hospital Putrajaya,masuk,1,0.0,Neutral
+Hospital Putrajaya,material,1,0.0,Neutral
+Hospital Putrajaya,maternity,1,0.0,Neutral
+Hospital Putrajaya,matter,1,0.0258,Neutral
+Hospital Putrajaya,mcm,1,0.0,Neutral
+Hospital Putrajaya,meant,1,0.0,Neutral
+Hospital Putrajaya,medication,1,0.0,Neutral
+Hospital Putrajaya,memang,1,0.0,Neutral
+Hospital Putrajaya,member,1,0.0,Neutral
+Hospital Putrajaya,menapak,1,0.0,Neutral
+Hospital Putrajaya,min,1,0.0,Neutral
+Hospital Putrajaya,minute,1,0.0,Neutral
+Hospital Putrajaya,miss,1,-0.1531,Neutral
+Hospital Putrajaya,ml,1,0.0,Neutral
+Hospital Putrajaya,mohd,1,0.0,Neutral
+Hospital Putrajaya,mom,1,0.0,Neutral
+Hospital Putrajaya,money,1,0.0,Neutral
+Hospital Putrajaya,monitor,1,0.0,Neutral
+Hospital Putrajaya,morning,1,0.0,Neutral
+Hospital Putrajaya,motorcycle,1,0.0,Neutral
+Hospital Putrajaya,msk,1,0.0,Neutral
+Hospital Putrajaya,much,1,0.0,Neutral
+Hospital Putrajaya,mule,1,0.0,Neutral
+Hospital Putrajaya,n,1,0.0,Neutral
+Hospital Putrajaya,name,1,0.0,Neutral
+Hospital Putrajaya,near,1,0.0,Neutral
+Hospital Putrajaya,necessary,1,0.0,Neutral
+Hospital Putrajaya,need,1,0.0,Neutral
+Hospital Putrajaya,nie,1,0.0,Neutral
+Hospital Putrajaya,nmpk,1,0.0,Neutral
+Hospital Putrajaya,no,1,-0.296,Neutral
+Hospital Putrajaya,non,1,0.0,Neutral
+Hospital Putrajaya,nora'i,1,0.0,Neutral
+Hospital Putrajaya,nothing,1,0.0,Neutral
+Hospital Putrajaya,now,1,0.0,Neutral
+Hospital Putrajaya,nurses,1,0.0,Neutral
+Hospital Putrajaya,officially,1,0.0,Neutral
+Hospital Putrajaya,online,1,0.0,Neutral
+Hospital Putrajaya,"only""",1,0.0,Neutral
+Hospital Putrajaya,operate,1,0.0,Neutral
+Hospital Putrajaya,operation,1,0.0,Neutral
+Hospital Putrajaya,operational,1,0.0,Neutral
+Hospital Putrajaya,operator,1,0.0,Neutral
+Hospital Putrajaya,order,1,0.0,Neutral
+Hospital Putrajaya,ortho,1,0.0,Neutral
+Hospital Putrajaya,otak,1,0.0,Neutral
+Hospital Putrajaya,others,1,0.0,Neutral
+Hospital Putrajaya,outdone,1,0.0,Neutral
+Hospital Putrajaya,outside,1,0.0,Neutral
+Hospital Putrajaya,overall,1,0.0,Neutral
+Hospital Putrajaya,owh,1,0.0,Neutral
+Hospital Putrajaya,paid,1,0.0,Neutral
+Hospital Putrajaya,pakai,1,0.0,Neutral
+Hospital Putrajaya,par,1,0.0,Neutral
+Hospital Putrajaya,participation,1,0.0,Neutral
+Hospital Putrajaya,patients,1,0.0,Neutral
+Hospital Putrajaya,paying,1,0.0,Neutral
+Hospital Putrajaya,peach,1,0.0,Neutral
+Hospital Putrajaya,pengarah,1,0.0,Neutral
+Hospital Putrajaya,pergi,1,0.0,Neutral
+Hospital Putrajaya,perlis,1,0.0,Neutral
+Hospital Putrajaya,person,1,0.0,Neutral
+Hospital Putrajaya,pharmacist,1,0.0,Neutral
+Hospital Putrajaya,pharmacy,1,0.0,Neutral
+Hospital Putrajaya,pic,1,0.0,Neutral
+Hospital Putrajaya,pick,1,0.0,Neutral
+Hospital Putrajaya,picked,1,0.0,Neutral
+Hospital Putrajaya,planned,1,0.0,Neutral
+Hospital Putrajaya,planning,1,0.0,Neutral
+Hospital Putrajaya,pls,1,0.0772,Neutral
+Hospital Putrajaya,police,1,0.0,Neutral
+Hospital Putrajaya,polite,1,0.0,Neutral
+Hospital Putrajaya,possibly,1,0.0,Neutral
+Hospital Putrajaya,power,1,0.0,Neutral
+Hospital Putrajaya,ppl,1,0.0,Neutral
+Hospital Putrajaya,pregnant,1,0.0,Neutral
+Hospital Putrajaya,prepared,1,0.2263,Neutral
+Hospital Putrajaya,presentable,1,0.0,Neutral
+Hospital Putrajaya,problem,1,-0.4019,Negative
+Hospital Putrajaya,producing,1,0.0,Neutral
+Hospital Putrajaya,provided,1,0.0,Neutral
+Hospital Putrajaya,provider,1,0.0,Neutral
+Hospital Putrajaya,provides,1,0.0,Neutral
+Hospital Putrajaya,providing,1,0.0,Neutral
+Hospital Putrajaya,purpose,1,0.0,Neutral
+Hospital Putrajaya,putra,1,0.0,Neutral
+Hospital Putrajaya,putrajaya;,1,0.0,Neutral
+Hospital Putrajaya,queue,1,0.0,Neutral
+Hospital Putrajaya,quiet,1,0.0,Neutral
+Hospital Putrajaya,quite,1,0.0,Neutral
+Hospital Putrajaya,r,1,0.0,Neutral
+Hospital Putrajaya,rating,1,0.0,Neutral
+Hospital Putrajaya,razak,1,0.0,Neutral
+Hospital Putrajaya,reaching,1,0.2023,Neutral
+Hospital Putrajaya,read,1,0.0,Neutral
+Hospital Putrajaya,reason,1,0.0,Neutral
+Hospital Putrajaya,reasons,1,0.0,Neutral
+Hospital Putrajaya,received,1,0.0,Neutral
+Hospital Putrajaya,receptionists,1,0.0,Neutral
+Hospital Putrajaya,registrationconsultation,1,0.0,Neutral
+Hospital Putrajaya,regret,1,-0.4215,Negative
+Hospital Putrajaya,relax,1,0.4404,Positive
+Hospital Putrajaya,remembered,1,0.0,Neutral
+Hospital Putrajaya,request,1,0.0,Neutral
+Hospital Putrajaya,resolved,1,0.1779,Neutral
+Hospital Putrajaya,respecting,1,0.4939,Positive
+Hospital Putrajaya,rest,1,0.0,Neutral
+Hospital Putrajaya,rib,1,0.0,Neutral
+Hospital Putrajaya,rude,1,-0.4588,Negative
+Hospital Putrajaya,sa'diah,1,0.0,Neutral
+Hospital Putrajaya,satisfactory,1,0.3612,Positive
+Hospital Putrajaya,saturday,1,0.0,Neutral
+Hospital Putrajaya,saw,1,0.0,Neutral
+Hospital Putrajaya,sbb,1,0.0,Neutral
+Hospital Putrajaya,season,1,0.0,Neutral
+Hospital Putrajaya,seats,1,0.0,Neutral
+Hospital Putrajaya,second,1,0.0,Neutral
+Hospital Putrajaya,secondary,1,0.0,Neutral
+Hospital Putrajaya,security,1,0.34,Positive
+Hospital Putrajaya,see,1,0.0,Neutral
+Hospital Putrajaya,seemed,1,0.0,Neutral
+Hospital Putrajaya,self,1,0.0,Neutral
+Hospital Putrajaya,sending,1,0.0,Neutral
+Hospital Putrajaya,sendiri,1,0.0,Neutral
+Hospital Putrajaya,serdang,1,0.0,Neutral
+Hospital Putrajaya,"serdang""",1,0.0,Neutral
+Hospital Putrajaya,serious,1,-0.0772,Neutral
+Hospital Putrajaya,servicenear,1,0.0,Neutral
+Hospital Putrajaya,servis,1,0.0,Neutral
+Hospital Putrajaya,set,1,0.0,Neutral
+Hospital Putrajaya,shall,1,0.0,Neutral
+Hospital Putrajaya,short,1,0.0,Neutral
+Hospital Putrajaya,show,1,0.0,Neutral
+Hospital Putrajaya,simplifies,1,0.0,Neutral
+Hospital Putrajaya,simplify,1,0.0,Neutral
+Hospital Putrajaya,since,1,0.0,Neutral
+Hospital Putrajaya,situation,1,0.0,Neutral
+Hospital Putrajaya,slip,1,0.0,Neutral
+Hospital Putrajaya,slow,1,0.0,Neutral
+Hospital Putrajaya,so,1,0.0,Neutral
+Hospital Putrajaya,someone,1,0.0,Neutral
+Hospital Putrajaya,something,1,0.0,Neutral
+Hospital Putrajaya,space,1,0.0,Neutral
+Hospital Putrajaya,speak,1,0.0,Neutral
+Hospital Putrajaya,special,1,0.4019,Positive
+Hospital Putrajaya,spirit,1,0.1779,Neutral
+Hospital Putrajaya,spoke,1,0.0,Neutral
+Hospital Putrajaya,stage,1,0.0,Neutral
+Hospital Putrajaya,stand,1,0.0,Neutral
+Hospital Putrajaya,star,1,0.0,Neutral
+Hospital Putrajaya,status,1,0.0,Neutral
+Hospital Putrajaya,store,1,0.0,Neutral
+Hospital Putrajaya,straight,1,0.2263,Neutral
+Hospital Putrajaya,strict,1,0.0,Neutral
+Hospital Putrajaya,subsidised,1,0.0,Neutral
+Hospital Putrajaya,successfully,1,0.4939,Positive
+Hospital Putrajaya,sunday,1,0.0,Neutral
+Hospital Putrajaya,supposed,1,0.0,Neutral
+Hospital Putrajaya,surprisingly,1,0.296,Neutral
+Hospital Putrajaya,survive,1,0.0,Neutral
+Hospital Putrajaya,swt,1,0.0,Neutral
+Hospital Putrajaya,syabas,1,0.0,Neutral
+Hospital Putrajaya,syringe,1,0.0,Neutral
+Hospital Putrajaya,taken,1,0.0,Neutral
+Hospital Putrajaya,talk,1,0.0,Neutral
+Hospital Putrajaya,talking,1,0.0,Neutral
+Hospital Putrajaya,taman,1,0.0,Neutral
+Hospital Putrajaya,team,1,0.0,Neutral
+Hospital Putrajaya,tell,1,0.0,Neutral
+Hospital Putrajaya,telling,1,0.0,Neutral
+Hospital Putrajaya,temperature,1,0.0,Neutral
+Hospital Putrajaya,ten,1,0.0,Neutral
+Hospital Putrajaya,tent,1,0.0,Neutral
+Hospital Putrajaya,territory,1,0.0,Neutral
+Hospital Putrajaya,theft,1,0.0,Neutral
+Hospital Putrajaya,there’s,1,0.0,Neutral
+Hospital Putrajaya,the federal,1,0.0,Neutral
+Hospital Putrajaya,the malaysian capital,1,0.0,Neutral
+Hospital Putrajaya,think,1,0.0,Neutral
+Hospital Putrajaya,third,1,0.0,Neutral
+Hospital Putrajaya,this,1,0.0,Neutral
+Hospital Putrajaya,thru,1,0.0,Neutral
+Hospital Putrajaya,tk,1,0.0,Neutral
+Hospital Putrajaya,told,1,0.0,Neutral
+Hospital Putrajaya,top,1,0.2023,Neutral
+Hospital Putrajaya,tortured,1,-0.5574,Negative
+Hospital Putrajaya,totally,1,0.0,Neutral
+Hospital Putrajaya,transfer,1,0.0,Neutral
+Hospital Putrajaya,try,1,0.0,Neutral
+Hospital Putrajaya,tuk,1,0.0,Neutral
+Hospital Putrajaya,tumor,1,-0.3818,Negative
+Hospital Putrajaya,tvs,1,0.0,Neutral
+Hospital Putrajaya,two,1,0.0,Neutral
+Hospital Putrajaya,unacceptable,1,-0.4588,Negative
+Hospital Putrajaya,undermanned,1,0.0,Neutral
+Hospital Putrajaya,understand,1,0.0,Neutral
+Hospital Putrajaya,understanding,1,0.0,Neutral
+Hospital Putrajaya,understood,1,0.0,Neutral
+Hospital Putrajaya,unforgivable,1,0.0,Neutral
+Hospital Putrajaya,unprofessional,1,-0.5106,Negative
+Hospital Putrajaya,using,1,0.0,Neutral
+Hospital Putrajaya,variety,1,0.0,Neutral
+Hospital Putrajaya,various,1,0.0,Neutral
+Hospital Putrajaya,vein,1,0.0,Neutral
+Hospital Putrajaya,virtually,1,0.0,Neutral
+Hospital Putrajaya,waited,1,0.0,Neutral
+Hospital Putrajaya,wanted,1,0.0,Neutral
+Hospital Putrajaya,week,1,0.0,Neutral
+Hospital Putrajaya,white,1,0.0,Neutral
+Hospital Putrajaya,wifi,1,0.0,Neutral
+Hospital Putrajaya,wish,1,0.4019,Positive
+Hospital Putrajaya,without,1,0.0,Neutral
+Hospital Putrajaya,woman,1,0.0,Neutral
+Hospital Putrajaya,worldly,1,0.0,Neutral
+Hospital Putrajaya,worse,1,-0.4767,Negative
+Hospital Putrajaya,worst,1,-0.6249,Negative
+Hospital Putrajaya,x-ray,1,0.0,Neutral
+Hospital Putrajaya,xda,1,0.0,Neutral
+Hospital Putrajaya,yah,1,0.0,Neutral
+Hospital Putrajaya,yes,1,0.4019,Positive
+Hospital Putrajaya,yet,1,0.0,Neutral
+Hospital Putrajaya,°,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,hospital,38,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,good,23,0.4404,Positive
+Columbia Asia Hospital - Petaling Jaya,wa,20,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,doctor,19,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,service,19,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,dr,15,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,nurse,14,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,staff,13,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,clean,12,0.4019,Positive
+Columbia Asia Hospital - Petaling Jaya,experience,12,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,time,12,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,care,11,0.4939,Positive
+Columbia Asia Hospital - Petaling Jaya,friendly,10,0.4939,Positive
+Columbia Asia Hospital - Petaling Jaya,thank,10,0.3612,Positive
+Columbia Asia Hospital - Petaling Jaya,well,10,0.2732,Neutral
+Columbia Asia Hospital - Petaling Jaya,also,9,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,first,9,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,helpful,9,0.4215,Positive
+Columbia Asia Hospital - Petaling Jaya,pj,9,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,columbia,8,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,nice,8,0.4215,Positive
+Columbia Asia Hospital - Petaling Jaya,overall,8,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,patient,8,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,test,8,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,environment,7,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,great,7,0.6249,Positive
+Columbia Asia Hospital - Petaling Jaya,appointment,6,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,asia,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,caring,5,0.4939,Positive
+Columbia Asia Hospital - Petaling Jaya,comfortable,5,0.5106,Positive
+Columbia Asia Hospital - Petaling Jaya,facility,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,fast,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,health,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,lim,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,medical,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,morning,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,number,5,0.0772,Neutral
+Columbia Asia Hospital - Petaling Jaya,scan,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,see,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,u,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,waiting,5,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,&,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,big,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,check,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,covid,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,day,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,doctors,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,easy,4,0.4404,Positive
+Columbia Asia Hospital - Petaling Jaya,even,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,front,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,get,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,go,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,ha,4,0.34,Positive
+Columbia Asia Hospital - Petaling Jaya,like,4,0.3612,Positive
+Columbia Asia Hospital - Petaling Jaya,one,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,people,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,polite,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,safe,4,0.4404,Positive
+Columbia Asia Hospital - Petaling Jaya,screening,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sop,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,team,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,went,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,would,4,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,access,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,area,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,asked,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,baby,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,bheena,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,done,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,experienced,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,explained,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,follow,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,food,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,full,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,fully,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,getting,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,i’ve,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,kind,3,0.5267,Positive
+Columbia Asia Hospital - Petaling Jaya,month,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,nurses,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,parking,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,place,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,private,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,really,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,recommend,3,0.3612,Positive
+Columbia Asia Hospital - Petaling Jaya,seen,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,session,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,star,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,warm,3,0.2263,Neutral
+Columbia Asia Hospital - Petaling Jaya,whole,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,year,3,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,-,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,10,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,11,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,1st,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,2,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,2021,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,3,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,5,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,always,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,anyone,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,attentive,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,bad,2,-0.5423,Negative
+Columbia Asia Hospital - Petaling Jaya,birth,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,blood,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,calm,2,0.3182,Positive
+Columbia Asia Hospital - Petaling Jaya,change,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,child,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,come,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,coming,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,consult,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,consultation,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,convenient,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,courteous,2,0.5106,Positive
+Columbia Asia Hospital - Petaling Jaya,crowded,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,customer,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,damansara,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,department,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,desk,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,detail,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,effective,2,0.4767,Positive
+Columbia Asia Hospital - Petaling Jaya,efficient,2,0.4215,Positive
+Columbia Asia Hospital - Petaling Jaya,entire,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,especially,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,excellent,2,0.5719,Positive
+Columbia Asia Hospital - Petaling Jaya,expectation,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,extra,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,family,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,far,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,feel,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,heart,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,house,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,improved,2,0.4767,Positive
+Columbia Asia Hospital - Petaling Jaya,ing,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,i’m,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,job,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,kannan,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,lady,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,last,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,location,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,looking,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,love,2,0.6369,Positive
+Columbia Asia Hospital - Petaling Jaya,many,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,message,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,met,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,mile,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,near,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,need,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,neighbourhood,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,office,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,outpatient,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,package,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,personally,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,personnel,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,pleasant,2,0.5106,Positive
+Columbia Asia Hospital - Petaling Jaya,plenty,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,pregnancy,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,price,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,procedure,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,process,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,professional,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,proper,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,reasonably,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,received,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,recommended,2,0.2023,Neutral
+Columbia Asia Hospital - Petaling Jaya,record,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,regarding,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,registration,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,reminder,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,report,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,reputable,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,respectful,2,0.4588,Positive
+Columbia Asia Hospital - Petaling Jaya,result,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,room,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,seminar,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,september,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sheau,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,smile,2,0.3612,Positive
+Columbia Asia Hospital - Petaling Jaya,specially,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,stay,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sweet,2,0.4588,Positive
+Columbia Asia Hospital - Petaling Jaya,take,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,think,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,took,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,treated,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,treatment,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,urine,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,useful,2,0.4404,Positive
+Columbia Asia Hospital - Petaling Jaya,wait,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,waited,2,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,wonderful,2,0.5719,Positive
+Columbia Asia Hospital - Petaling Jaya,1045am,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,2017,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,2018,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,2nd,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,3rd,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,500,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,745am,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,8,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,accident,1,-0.4767,Negative
+Columbia Asia Hospital - Petaling Jaya,accommodating,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,accomodating,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,accompany,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,additional,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,adhering,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,admission,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,admitted,1,0.1027,Neutral
+Columbia Asia Hospital - Petaling Jaya,afternoon,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,alike,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,all,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,almost,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,although,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,amazing,1,0.5859,Positive
+Columbia Asia Hospital - Petaling Jaya,andy,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,another,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,answering,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,antenatal,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,antibiotics,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,app,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,appreciate,1,0.4019,Positive
+Columbia Asia Hospital - Petaling Jaya,arm,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,armin,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,around,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,arranged,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,ask,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,asking,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,assist,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,assistance,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,attend,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,attended,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,attention,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,attentiveness,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,attitude,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,aware,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,awww,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,bangsar,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,basement,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,basic,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,beautiful,1,0.5994,Positive
+Columbia Asia Hospital - Petaling Jaya,beena,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,best,1,0.6369,Positive
+Columbia Asia Hospital - Petaling Jaya,beyond,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,bid,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,bit,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,blessed,1,0.5994,Positive
+Columbia Asia Hospital - Petaling Jaya,bordering,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,born,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,boy,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,breastfeeding,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,bye,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,cafe,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,cah,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,call,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,calmness,1,0.4019,Positive
+Columbia Asia Hospital - Petaling Jaya,came,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,can't,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,canteen,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,carpark,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,cater,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,centralised,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,cheaper,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,checkup,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,chinese,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,choice,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,chong,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,cleanliness,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,close,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,comforting,1,0.4019,Positive
+Columbia Asia Hospital - Petaling Jaya,comfy,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,compared,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,complaints,1,-0.4019,Negative
+Columbia Asia Hospital - Petaling Jaya,conceived,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,concern,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,confirmation,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,consider,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,consistent,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,consultant,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,consulting,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,containint,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,could,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,counter,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,covid-19,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,cozy,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,current,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,cute,1,0.4588,Positive
+Columbia Asia Hospital - Petaling Jaya,date,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,dato,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,daughter,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,deal,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,dedicated,1,0.4588,Positive
+Columbia Asia Hospital - Petaling Jaya,describe,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,deserve,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,diagnose,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,difficult,1,-0.3612,Negative
+Columbia Asia Hospital - Petaling Jaya,diligent,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,direct,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,direction,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,discharge,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,dislocation,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,distance,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,distancing,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,doc,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,doctor’s,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,don’t,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,door,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,downloaded,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,drbheena,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,drew,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,drs,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,elderly,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,elsewhere,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,emergency,1,-0.3818,Negative
+Columbia Asia Hospital - Petaling Jaya,employment,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,encouragement,1,0.4215,Positive
+Columbia Asia Hospital - Petaling Jaya,end,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,enough,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,enter,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,entrance,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,envelope,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,every,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,everyone,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,everything,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,everywhere,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,exceptional,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,expecting,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,explain,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,explaining,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,face,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,fasiliti,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,feeding,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,felt,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,feme,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,financial,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,find,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,flow,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,folk,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,following,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,free,1,0.5106,Positive
+Columbia Asia Hospital - Petaling Jaya,frontline,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,future,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,gastroenterologist,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,gaven,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,generally,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,gentleness,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,genuine,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,girl,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,give,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,given,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,going,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,got,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,gown,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,greeting,1,0.3818,Positive
+Columbia Asia Hospital - Petaling Jaya,guard,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,guess,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,gynaecology,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,hartamas,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,have,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,height,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,heights,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,help,1,0.4019,Positive
+Columbia Asia Hospital - Petaling Jaya,here,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,hero,1,0.5574,Positive
+Columbia Asia Hospital - Petaling Jaya,heroine,1,0.5719,Positive
+Columbia Asia Hospital - Petaling Jaya,hiccup,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,ho,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,hope,1,0.4404,Positive
+Columbia Asia Hospital - Petaling Jaya,hospitality,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,hospitalized,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,hour,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,hygienic,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,ideally,1,0.4215,Positive
+Columbia Asia Hospital - Petaling Jaya,immediately,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,impressed,1,0.4767,Positive
+Columbia Asia Hospital - Petaling Jaya,inaccurate,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,include,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,increased,1,0.2732,Neutral
+Columbia Asia Hospital - Petaling Jaya,information,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,informative,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,informed,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,inquiry,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,inside,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,involved,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,issue,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,jaya,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,keep,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,kept,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,kl,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,klang,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,knew,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,knowledgeable,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,l,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,lab,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,laboratory,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,later,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,le,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,life,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,little,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,lobby,1,0.0258,Neutral
+Columbia Asia Hospital - Petaling Jaya,locked,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,look,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,lug,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,made,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,make,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,manage,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,mask,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,matter,1,0.0258,Neutral
+Columbia Asia Hospital - Petaling Jaya,meant,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,memorable,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,menstruating,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,mention,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,minor,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,mommy,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,money,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,mother,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,mri,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,n,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,name,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,namely,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,nearest,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,necessary,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,negative,1,-0.5719,Negative
+Columbia Asia Hospital - Petaling Jaya,never,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,night,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,notification,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,nursing,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,ob,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,ob-gyn,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,ok,1,0.296,Neutral
+Columbia Asia Hospital - Petaling Jaya,on,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,online,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,op,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,open,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,operating,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,operation,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,orthopaedic,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,overnight,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,painful,1,-0.4404,Negative
+Columbia Asia Hospital - Petaling Jaya,pandemic,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,parent,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,patientthank,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,patient’s,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,pcr,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,pedia,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,pediatrician,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,perfect,1,0.5719,Positive
+Columbia Asia Hospital - Petaling Jaya,petaling,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,phlebotomist,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,phone,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,pick,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,plan,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,poor,1,-0.4767,Negative
+Columbia Asia Hospital - Petaling Jaya,post,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,posted,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,praise,1,0.5574,Positive
+Columbia Asia Hospital - Petaling Jaya,pre,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,premise,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,prenatal,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,presentation,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,priced,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,prior,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,priority,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,problem,1,-0.4019,Negative
+Columbia Asia Hospital - Petaling Jaya,procedures,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,provide,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,put,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,pyisio,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,question,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,quick,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,quite,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,radiologist,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,ready,1,0.3612,Positive
+Columbia Asia Hospital - Petaling Jaya,realized,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,reasonable,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,receptionist,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,recovery,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,regular,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,relaxing,1,0.4939,Positive
+Columbia Asia Hospital - Petaling Jaya,reminds,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,respect,1,0.4767,Positive
+Columbia Asia Hospital - Petaling Jaya,respective,1,0.4215,Positive
+Columbia Asia Hospital - Petaling Jaya,respond,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,risk,1,-0.2732,Neutral
+Columbia Asia Hospital - Petaling Jaya,risking,1,-0.3182,Negative
+Columbia Asia Hospital - Petaling Jaya,rm300,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,rm600+,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sanitised,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,satisfactory,1,0.3612,Positive
+Columbia Asia Hospital - Petaling Jaya,satisfied,1,0.4215,Positive
+Columbia Asia Hospital - Petaling Jaya,saturday,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,saw,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,scared,1,-0.4404,Negative
+Columbia Asia Hospital - Petaling Jaya,second,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,security,1,0.34,Positive
+Columbia Asia Hospital - Petaling Jaya,seem,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,seems,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,self,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,send,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,shalini,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,share,1,0.296,Neutral
+Columbia Asia Hospital - Petaling Jaya,sharing,1,0.4215,Positive
+Columbia Asia Hospital - Petaling Jaya,short,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sign,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,signage,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,skill,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sm,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,small,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,smooth,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sociable,1,0.4404,Positive
+Columbia Asia Hospital - Petaling Jaya,social,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,solid,1,0.1531,Neutral
+Columbia Asia Hospital - Petaling Jaya,someone,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sometimes,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,soon,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sops,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,speak,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,speaker,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,special,1,0.4019,Positive
+Columbia Asia Hospital - Petaling Jaya,specific,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,spent,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,spot,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,spotting,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,staffs,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,stamp,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,stars,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,start,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sticker,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,still,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,straight,1,0.2263,Neutral
+Columbia Asia Hospital - Petaling Jaya,stress,1,-0.4215,Negative
+Columbia Asia Hospital - Petaling Jaya,successful,1,0.5859,Positive
+Columbia Asia Hospital - Petaling Jaya,sufficient,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,suggest,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,suggestion,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,sure,1,0.3182,Positive
+Columbia Asia Hospital - Petaling Jaya,surgery,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,surprisingly,1,0.296,Neutral
+Columbia Asia Hospital - Petaling Jaya,swift,1,0.2023,Neutral
+Columbia Asia Hospital - Petaling Jaya,system,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,technician,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,tell,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,tested,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,tests,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,texted,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,thankful,1,0.5719,Positive
+Columbia Asia Hospital - Petaling Jaya,thanks,1,0.4404,Positive
+Columbia Asia Hospital - Petaling Jaya,though,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,thought,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,thoughtful,1,0.3818,Positive
+Columbia Asia Hospital - Petaling Jaya,ticketing,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,till,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,timing,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,tip,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,to,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,ttdi,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,unable,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,understanding,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,undertaken,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,unknot,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,unless,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,ups,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,us,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,used,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,using,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,v,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,veryyyyy,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,visible,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,visited,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,visitor,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,volume,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,vyshali,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,walk,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,warded,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,warmth,1,0.4588,Positive
+Columbia Asia Hospital - Petaling Jaya,webinar,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,weight,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,welfare,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,weren’t,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,who’s,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,wife,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,willingly,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,without,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,worker,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,wrong,1,-0.4767,Negative
+Columbia Asia Hospital - Petaling Jaya,xrays,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,yeah,1,0.296,Neutral
+Columbia Asia Hospital - Petaling Jaya,you’ll,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,️,1,0.0,Neutral
+Columbia Asia Hospital - Petaling Jaya,️who,1,0.0,Neutral
